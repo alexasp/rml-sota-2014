@@ -1,0 +1,526 @@
+COMMENT,Note: An 'x' indicates that a particular quality criteria is given. A 'v' indicates that the paper does not qualify for the criteria.,,,,,,,,,,,,,,
+Title,Authors,Year,Clear research topic,Clear end product,Placed in context,Quantifiable experiments,Qualitative testing,Experimental outcome indicated,Theoretical justification,SOTA comparison,Outperforms SOTA,Definitively novel,Published in respectable channel,Definitively using machine learning,Applied to real world problem
+ITR: COLLABORATIVE RESEARCH- (ECS+ASE)- (dmc/int) Live Wires: Always On Adaptive and Editable Simulations With Live Feed,"(pi, Maria Hybinette and (co-pi, Eileen T. Kraemer and Co-pi, Tucker Balch (collaborative",,v,v,v,v,v,v,v,v,v,x,v,x,x
+Context-Aware Adaptive Data Stream Mining,"A, Pari Delir Haghighi and A, Arkady Zaslavsky and A, Shonali Krishnaswamy and Medhat, Mohamed and B, Gaber and C, Seng Loke",,x,x,v,v,x,v,v,v,v,x,v,x,x
+Online Adaptation in Learning Classifier Systems: Stream Data Mining,"Abbass, Hussein A. and Bacardit, Jaume and Butz, Martin V. and Llor\`{a}, Xavier",2004,x,v,v,x,v,v,x,v,v,x,v,x,v
+Streaming Random Forests,"Abdulsalam, Hanady and Skillicorn, David B. and Martin, Patrick",2007,x,x,x,x,v,x,v,x,v,v,v,x,v
+A novel incremental approach for stream data mining,"Aboalsamh, H.A.",2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+Kernel-based online machine learning and support vector reduction,Sumeet Agarwal and V. Vijaya Saradhi and Harish Karnick,2008,v,v,v,v,v,v,v,v,v,v,v,x,v
+A segment-based framework for modeling and mining data streams,"Aggarwal, C.C.",2012,x,x,v,x,v,v,v,v,v,v,v,x,v
+A SURVEY OF CHANGE DIAGNOSIS ALGORITHMS IN EVOLVING DATA STREAMS,"Aggarwal, Cham C.",,v,v,v,v,v,v,v,v,v,x,v,x,v
+Under consideration for publication in Knowledge and Information Systems On Clustering Massive Text and Categorical Data Streams,"Aggarwal, Charu C. and Yu, Philip S.",,x,x,x,x,v,x,v,v,v,x,v,x,v
+LOCUST: An Online Analytical Processing Framework for High Dimensional Classification of Data Streams,"Aggarwal, Charu C. and Yu, Philip S.",2008,x,x,x,v,v,v,v,v,v,x,x,x,v
+An approachable analytical study on big educational data mining,"Aghabozorgi, S.a and Mahroeian, H.b and Dutt, A.a and Wah, T.Y.a and Herawan, T.a c",2014,v,v,v,v,v,v,v,v,v,v,v,x,x
+The reality of real-time business intelligence,"Agrawal, D.",2009,x,x,x,v,v,v,v,v,v,x,v,v,v
+Supporting self-adaptation in streaming data mining applications,"Agrawal, G.",2006,x,v,v,x,v,x,v,v,v,v,v,v,v
+Semi-supervised ensemble learning of data streams in the presence of concept drift,"Ahmadi, Z. and Beigy, H.",2012,x,x,x,x,v,x,v,x,v,x,v,x,v
+A framework for mining interesting high utility patterns with a strong frequency affinity,"Ahmed, C.F.a and Tanbeer, S.K.a and Jeong, B.-S.a and Choi, H.-J.b",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+Efficient single-pass mining of weighted interesting patterns,"Ahmed, C.F. and Tanbeer, S.K. and Jeong, B.-S. and Lee, Y.-K.",2008,x,x,x,x,v,x,v,v,v,x,v,x,v
+Data management for M2M communication using telecom mediation systems,"Akhouri, S. and Girdhar, K.",2013,x,v,x,v,v,v,v,v,v,x,v,x,x
+Random rules from data streams,"Almeida, E.a and Kosina, P.a b and Gama, J.a c",2013,x,x,x,v,v,v,x,x,v,v,v,x,v
+Increasing availability of industrial systems through data stream mining,Ahmad Alzghoul and Magnus LÃƒÂ¶fstrand,2011,x,v,x,x,v,x,v,v,v,v,v,x,x
+Big \& personal: Data and models behind Netflix recommendations,"Amatriain, X.",2013,v,x,v,v,v,v,v,v,v,x,v,x,x
+Chapter 6 MULTI-DIMENSIONAL ANALYSIS OF DATA STREAMS USING STREAM CUBES,"An, Jiawei and Cai, Y Dora and Chen, Yixin",,x,x,v,v,v,v,v,v,v,v,v,x,v
+Information-theoretic data discarding for dynamic trees on data streams,"Anagnostopoulos, C.a and Gramacy, R.B.b",2013,x,x,x,v,x,v,v,x,v,x,v,x,v
+A fast Incremental Kernel Principal Component Analysis for data streams,"{Anak Joseph}, Annie and Ozawa, Seiichi",2014,x,x,x,x,v,x,v,x,x,x,v,x,v
+Fuzzily Connected Multimodel Systems Evolving Autonomously From Data Streams.,"Angelov, Plamen",2011,x,x,v,v,v,v,v,v,v,x,v,x,v
+Online mining closed frequent itemsets over a stream sliding window,"Ao, F.-J.a and Du, J.b and Yan, Y.-J.b and Huang, K.-D.a",2009,x,x,x,x,v,x,v,x,x,x,v,x,v
+Online mining maximal frequent itemsets in sliding window over data streams,"Ao, F.-J.a and Yan, Y.-J.b and Liu, B.-H.a and Huang, K.-D.a",2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+Data stream analytics and mining in the cloud,"Ari, Ismail and Olmezogullari, Erdi and Celebi, Omer Faruk",2012,x,v,v,x,v,x,v,v,v,x,v,x,x
+Online algorithms for mining semi-structured data stream,"Asai, T. and Arimura, H. and Abe, K. and Kawasoe, S. and Arikawa, S.",2002,x,x,v,x,v,v,x,v,v,v,v,x,v
+An instance-window based classification algorithm for handling gradual concept drifts,"Attar, V.a and Chaudhary, P.a and Rahagude, S.a and Chaudhari, G.a and Sinha, P.b",2012,x,v,x,v,v,v,v,v,v,v,v,x,v
+Mobile Data Mining for Intelligent Healthcare Support,unknown Authors,,x,v,v,v,x,v,v,v,v,x,v,x,x
+"B.Suresh Babu,",unknown Authors,,x,v,v,v,v,v,v,v,v,x,v,x,v
+"Mining Frequent Patterns from Data streams using Dynamic DP-tree Shaik.Hafija, M.Tech(CS), JNTU Kakinada. J.V.R. Murthy,",unknown Authors,,x,x,v,v,v,v,v,v,v,x,v,x,v
+Mining Frequent Itemsets in Time-Varying Data Streams,Yingying Tao and M. Tamer Özsu,,x,x,x,x,v,x,v,x,x,x,v,x,v
+Data stream mining to address big data problems,"Ölmezoǧullari, E.a and Ari, I.a and Çelebi, Ö.F. and Ergüt, S.",2013,x,x,x,v,x,v,v,v,v,x,v,x,x
+Beyond Online Aggregation: Parallel and Incremental Data Mining with Online Map-Reduce (DRAFT),"B\""{o}se, Joos-hendrik and Sci, Intl Comp and Andrzejak, Artur and H\""{o}gqvist, Mikael",,x,x,x,x,v,x,v,v,v,x,v,x,v
+Efficient learning from explanation of prediction errors in streaming data,"Banerjee, B. and Dutta, J.K.",2013,x,x,v,x,x,v,x,v,v,v,v,x,x
+Load Shedding in Network Monitoring Applications,"Barlet-Ros, Pere and Iannaccone, Gianluca and Sanju\`{a}s-Cuxart, Josep and Amores-L\'{o}pez, Diego and Sol\'{e}-Pareta, Josep",2007,x,x,v,x,x,x,v,v,v,v,v,x,x
+An interactive search assistant architecture based on intrinsic query stream characteristics,"Barouni-Ebrahimi, M.a b and Ghorbani, A.A.a",2008,x,x,x,x,v,x,v,v,v,x,v,x,x
+Real-time Ranking with Concept Drift Using Expert Advice,"Becker, Hila",2007,x,x,x,x,v,x,v,x,x,v,x,x,v
+Fuzzy Clustering of Parallel Data Streams,"Beringer, J\""{u}rgen and H\""{u}llermeier, Eyke",,x,x,v,v,v,v,v,v,v,x,v,x,v
+Online clustering of parallel data streams,"Beringer, J\""{u}rgen and H\""{u}llermeier, Eyke",2005,x,x,v,v,v,v,v,v,v,x,v,x,v
+An efficient algorithm for instance-based learning on data streams,"Beringer, J.a and HÃƒÂ¼llermeier, E.b",2007,x,x,v,x,x,v,v,x,x,x,v,x,v
+Characterizing latency in periodic P2P hypercube gossiping,"Berndt, P. and Hovestadt, M. and Kao, O.",2012,x,v,x,v,x,v,x,v,v,v,v,v,v
+Real-Time Analytics for Legacy Data Streams in Health: Monitoring Health Data Quality,"Berry, Andrew and Milosevic, Zoran",2013,x,x,v,v,x,v,v,x,x,v,v,x,x
+An efficient intrusion detection system based on pattern matching and state transition analysis,"Bhargavi, R. and Vaidehi, V. and Sri Ganesh, K.",2012,x,x,x,x,v,x,v,v,v,x,v,x,x
+User subjectivity in change modeling of streaming itemsets,"Bhatnagar, V. and Kochhar, S.K.",2005,x,v,v,v,v,v,v,v,v,x,v,x,v
+Real-time analysis and management of big time-series data,"Biem, A. and Feng, H. and Riabov, A. V. and Turaga, D. S.",2013,x,x,v,v,v,v,v,v,v,v,v,v,x
+Mining Adaptively Frequent Closed Unlabeled Rooted Trees in Data Streams,"Bifet, Albert and Gavald\`{a}, Ricard and {De Llenguatges I Sistemes}, Departament",,x,x,v,x,v,v,x,x,x,x,v,x,v
+MOA-TweetReader: Real-time analysis in twitter streaming data,"Bifet, A. and Holmes, G. and Pfahringer, B.",2011,x,x,v,v,x,v,v,v,v,v,v,x,x
+Mining frequent closed graphs on evolving data streams,"Bifet, A.a and Holmes, G.a and Pfahringer, B.a and GavaldÃƒÂ , R.b",2011,x,x,v,v,x,v,v,x,x,v,x,x,v
+New ensemble methods for evolving data streams,"Bifet, Albert and Holmes, Geoff and Pfahringer, Bernhard and Kirkby, Richard and Gavald\`{a}, Ricard",2009,x,x,x,x,v,x,v,x,v,x,x,x,v
+Adaptive Product Normalization: Using Online Learning for Record Linkage in Comparison Shopping,"Bilenko, M. and Basu, S. and Sahami, M.",2005,x,x,v,x,v,x,v,v,v,x,v,x,x
+Clustering on Demand for Multiple Data Streams,{Bi-Ru Dai} and {Jen-Wei Huang} and {Mi-Yen Yeh} and {Ming-Syan Chen},2004,x,x,v,v,v,v,v,v,v,x,v,x,v
+A multidimensional temporal abstractive data mining framework,"Bjering, Heidi and McGregor, Carolyn",2010,x,x,v,v,v,v,v,v,v,v,v,x,x
+On the integration of an artifact system and a real-time healthcare analytics system,"Blount, M.a and McGregor, C.b and James, A.c and Sow, D.a and Kamaleswaran, R.b and Tuuha, S.b and Percival, J.b and Percival, N.b",2010,x,v,v,v,v,v,v,v,v,v,v,x,x
+GT2FC: An Online Growing Interval Type-2 Self-Learning Fuzzy Classifier,"Bouchachia, Abdelhamid and Vanaret, Charlie",2014,x,x,v,x,v,x,v,v,v,x,v,x,v
+Online time data series pre-processing for the improved performance of anomaly detection methods,"Branisavljević, N. and Kapelan, Z. and Prodanović, D.",2010,x,v,x,v,v,x,v,v,v,v,v,x,x
+Using machine learning for discovery in synoptic survey imaging data,"Brink, H.a and Richards, J.W.a b and Poznanski, D.c and Bloom, J.S.a and Rice, J.c and Negahban, S.d and Wainwright, M.b d",2013,x,x,v,x,v,x,v,v,v,v,v,x,x
+Reacting to Different Types of Concept Drift: The Accuracy Updated Ensemble Algorithm,"Brzezinski, Dariusz and Stefanowski, Jerzy",,x,x,x,x,v,x,v,x,x,x,x,x,v
+Effective Anomaly Detection in Sensor Networks Data Streams,"Budhaditya, Saha and Pham, Duc-Son and Lazarescu, Mihai and Venkatesh, Svetha",2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+Data stream synchronization for defining meaningful fMRI classification problems,Marcin Budka,2014,x,x,x,x,v,x,v,x,x,x,v,x,x
+A Unified Framework for Monitoring Data Streams in Real Time,"Bulut, A. and Singh, A.K.",2005,x,x,v,x,v,x,v,x,x,x,x,x,v
+Unsupervised Learning for Analyzing the Dynamic Behavior of Online Banking Fraud,"Cabanes, Guenael and Bennani, Younes and Grozavu, Nistor",2013,x,x,v,x,v,v,v,v,v,x,v,x,x
+MAIDS: Mining Alarming Incidents from Data Streams,"Cai, Y. Dora and Clutter, David and Pape, Greg and Han, Jiawei and Welge, Michael and Auvil, Loretta",,v,x,v,x,v,x,v,v,v,v,v,x,v
+"Author manuscript, published in ""Real-World Challenges for Data Stream Mining Workshop-Discussion Czech Republic (2013)"" Analysis of Videos using Tile Mining","Calders, Toon and Fromont, Elisa and Jeudy, Baptiste and Lam, Hoang Thanh and {De Lyon}, Universit\'{e} and Jean, Universit\'{e} and Saint-etienne, Monnet",2013,x,v,v,v,v,v,v,v,v,v,v,x,x
+Frequent Pairs in Data Streams: Exploiting Parallelism and Skew,"Campagna, Andrea and Kutzkov, Konstantin and Pagh, Rasmus",,x,x,x,x,v,x,v,v,v,v,v,x,v
+A network of cooperative learners for data-driven stream Mining,"Canzian, Luca and van der Schaar, Mihaela",2014,x,x,x,x,v,x,x,x,x,x,v,x,v
+Tracking Quantiles of Network Data Streams with Dynamic Operations,"Cao, Jin and Li, Li Erran and Chen, Aiyou and Bu, Tian",,x,x,v,v,v,v,v,v,v,x,v,x,v
+Mining accurate top-K frequent closed itemset from data stream,"Cao, X.",2012,x,x,v,x,v,x,v,v,v,x,v,x,v
+Hierarchical feedback adaptation for real time sensor-based distributed applications,"Cardei, Mihaela and Cardei, Ionut and Jha, Rakesh and Pavan, Allalaghatta",2000,x,x,v,x,v,v,v,v,v,v,v,v,v
+Online Techniques for Dealing with Concept Drift in Process Mining,"Carmona, Josep and Gavald\`{a}, Ricard",,x,x,x,v,v,v,v,x,x,v,v,x,v
+2nd Workshop on Applications of Pattern Analysis Using GNUsmail to Compare Data Stream Mining Methods for On-line Email Classification,"Carmona-cejudo, Jos\'{e} M. and Baena-garc\'{\i}a, Manuel and Gama, Jo\~{a}o and Bifet, Albert and Diethe, Tom and Balc\'{a}zar, Jos\'{e} L. and Shawe-taylor, John and T\^{\i}rnÄƒucÄƒ, Cristina",,x,x,x,v,v,v,v,v,v,v,v,x,x
+Online Matching of Web Content to Closed Captions in IntoNow,"Castillo, Carlos and De, Gianmarco and Morales, Francisci and Shekhawat, Ajay",,v,x,v,v,v,v,v,v,v,v,v,x,x
+Relational Frequent Patterns Mining for Novelty Detection from Data Streams,"Ceci, Michelangelo and Loglisci, Corrado and Caruso, Costantina and Fumarola, Fabio and Valente, Carmine and Malerba, Donato",,x,x,x,x,x,v,v,v,v,x,v,x,x
+A Multi-Domain Architecture for Mining Frequent Items and Itemsets from Distributed Data Streams,"Cesario, E.a and Mastroianni, C.a and Talia, D.b",2014,x,x,v,x,v,v,v,v,v,v,v,x,v
+A novel conceptual framework for mining high speed data streams,"Chandrika, J. and {Ananda Kumar}, K. R.",2011,x,x,x,v,v,v,v,v,v,x,v,x,v
+"Finding recently frequent itemsets adaptively over online transactional data streams,","Chang, J.H. and Lee, W.S.",2006,x,x,x,x,v,v,v,v,v,x,v,x,v
+Effect of count estimation in finding frequent itemsets over online transactional data streams,"Chang, J.H. and Lee, W.S.",2005,x,x,v,x,v,x,v,v,v,x,v,x,x
+A sliding window method for finding recently frequent itemsets over online data streams,"Chang, J.H. and Lee, W.S.",2004,x,x,x,v,v,v,v,v,v,x,v,x,v
+Finding recent frequent itemsets adaptively over online data streams,"Chang, J.H. and Lee, W.S.",2003,x,x,x,x,v,v,v,v,v,x,x,x,v
+Efficient mining method for retrieving sequential patterns over online data streams,"Chang, J.H.a b and Lee, W.S.a",2005,x,x,v,v,v,v,v,v,v,x,v,x,v
+estWin: Online data stream mining of recent frequent itemsets by sliding window method,"Chang, J.H.a b and Lee, W.S.a",2005,x,x,x,v,v,v,v,v,v,x,v,x,v
+Efficient subset-lattice algorithms for mining closed frequent itemsets and maximal frequent itemsets in data streams,"Chang, Y.-I. and Li, C.-E. and Peng, W.-H. and Wang, S.-Y.",2013,x,x,x,x,v,x,v,v,v,x,v,x,v
+A set-checking algorithm for mining maximal frequent itemsets from data streams,"Chang, Y.-I. and Tsai, M.-H. and Li, C.-E. and Lin, P.-Y.",2013,x,x,x,x,v,x,v,v,v,x,v,x,v
+Detection for Anomaly Data in Microseismic Survey,"Chang-peng, Ji and Li-li, Liu",2009,x,x,x,x,v,x,v,x,v,x,v,x,x
+Resource-Aware Density-and-Grid-Based Clustering in Ubiquitous Data Streams,"Chao, Ching-Ming and Chao, Guan-Lin",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+An Online Web Usage Mining System Using Stochastic Timed Petri Nets,"Chao, Ching-Ming and Yang, Shih-Yang and Chen, Po-Zung and Sun, Chu-Hao",2011,x,x,x,v,v,v,v,v,v,x,v,x,x
+Knowledge discovery using genetic algorithm for maritime situational awareness,"Chen, C.-H.a and Khoo, L.P.a and Chong, Y.T.b and Yin, X.F.c",2014,x,x,v,v,v,v,v,v,v,x,v,x,x
+Efficiently mining recent frequent patterns over online transactional data streams,"Chen, H.",2009,x,x,x,x,v,x,v,x,x,x,v,x,x
+Mining frequent patterns in a varying-size sliding window of online transactional data streams,Hui Chen and LihChyun Shu and Jiali Xia and Qingshan Deng,2012,x,x,v,x,v,x,x,x,x,x,v,x,v
+Wavelet-based amnesic synopses for data streams,"Chen, H.a b and Shi, B.a",2009,x,x,x,x,v,v,v,v,v,x,v,x,v
+GC-tree: A fast online algorithm for mining frequent closed itemsets,"Chen, J. and Li, S.",2007,x,x,x,x,v,x,v,x,v,x,v,x,v
+Supporting self-adaptation in streaming data mining applications,"Chen, L. and Agrawal, G.",2006,x,x,x,v,x,v,v,v,v,v,v,x,v
+Experience in Continuous analytics as a Service (CaaaS),"Chen, Qiming and Hsu, Meichun and Zeller, Hans",,x,v,v,x,x,x,v,v,v,x,v,v,v
+An in-database streaming solution to multi-camera fusion,"Chen, Q.a and Li, Q.b and Hsu, M.a and Yu, T.b",2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+An approach to online Bayesian learning from multiple data streams,"Chen, R. and Sivakumar, K. and Kargupta, H.",2001,x,x,v,x,v,x,v,v,v,v,v,x,x
+Stop Chasing Trends: Discovering High Order Models in Evolving Data,"Chen, Shixi and Wang, Haixun and Zhou, Shuigeng and Yu, Philip S.",2008,x,x,x,x,v,x,v,x,x,x,x,x,v
+Online Analytical Processing Stream Data: Is It Feasible?,"Chen, Yixin and Dong, Guozhu and Han, Jiawei and Pe, Jian and Wah, Benjamin W. and Wang, Jianyong",2002,x,x,v,v,v,v,v,v,v,v,v,x,v
+Multi-dimensional regression analysis of time-series data streams,"Chen, Yixin and Dong, Guozhu and Han, Jiawei and Wah, Benjamin W. and Wang, Jianyong",2002,x,x,v,x,v,v,v,v,v,x,v,x,v
+Online fractal dimensionality reduction in time decaying stream environment,"Chen, Zhizhong and He, Ruichun and Li, Yinzhen",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+Peckalytics: Analyzing experts and interests on twitter,"Cheng, A. and Bansal, N. and Koudas, N.",2013,x,x,v,v,x,v,v,v,v,v,v,v,x
+Analysis model over data stream based on radial basis statistical network,"Cheng, Y.-H. and Liu, B. and Wang, X.-S.",2010,x,x,v,x,v,x,x,v,v,x,v,x,v
+An online spatio-temporal association rule mining framework for analyzing and estimating sensor data,"Chok, H. and Gruenwald, L.",2009,x,x,v,x,v,x,v,v,v,v,v,x,v
+Learning from evolving data streams: online triage of bug reports,"Chrupala, Grzegorz",2012,x,x,x,x,v,v,v,v,v,v,v,x,x
+Data stream mining architecture for network intrusion detection,"Chu, N.C.N. and Williams, A. and Alhaj, R. and Barker, K.",2004,x,x,x,v,v,v,v,v,v,x,v,x,x
+Discovering Trend-Based Clusters in Spatially Distributed Data Streams,"Ciampi, Anna and Malerba, Donato",,x,x,v,x,v,x,v,v,v,x,v,x,v
+Info-fuzzy algorithms for mining dynamic data streams,"Cohen, L.a and Avrahami, G.a and Last, M.a and Kandel, A.b",2008,x,v,x,x,v,v,v,x,x,x,v,x,x
+1 Activity Discovery and Activity Recognition: A New Partnership,"Cook, Diane and Krishnan, Narayanan and Rashidi, Parisa",,x,v,x,x,v,v,v,v,v,v,v,x,x
+StreamNetFlux: Birth of transparent integrated CEP-DBs,"Costa, J.P.a and Martins, P.b and CecÃƒÂ­lio, J.b and Furtado, P.b",2010,x,x,x,v,x,v,v,v,v,v,v,v,x
+SHStream: Self-healing framework for HTTP video-streaming,"Cunha, C.A. and Moura E. Silva, L.",2013,x,x,v,x,v,x,v,v,v,v,v,x,x
+Online learning based on prototypes,"Czarnowski, I. and JÃˆÂ©drzejowicz, P.",2014,x,v,v,x,v,v,v,v,v,x,v,x,v
+Proceedings of the Twenty-Third International Joint Conference on Artificial Intelligence A Lossy Counting Based Approach for Learning on Streams of Graphs on a Budget,"Da, Giovanni and Martino, San and Navarin, Nicol\`{o} and Sperduti, Ro",,x,x,v,v,v,v,v,v,v,x,x,x,v
+Finding Maximal Frequent Itemsets over Online Data Streams Adaptively,{Daesu Lee} and {Wonsuk Lee},2005,x,x,v,x,v,v,v,v,v,x,v,x,v
+Evolutionary online data mining: An investigation in a dynamic environment,"Dam, H.H. and Lokan, C. and Abbass, H.A.",2007,x,x,x,x,v,x,v,v,v,x,v,x,v
+Online mining of frequent sets in data streams with error guarantee,"Dang, X.H.a and Ng, W.-K.a and Ong, K.-L.b",2008,x,x,x,x,v,x,x,x,x,x,v,x,v
+Discovering frequent sets from data streams with CPU constraint,"Dang, X.H.a and NG, W.-K.a and Ong, K.-L.b and Lee, V.C.S.c",2007,x,x,v,x,v,x,x,v,v,x,v,x,v
+Kaal - A Real Time Stream Mining Algorithm,"Dass, Rajanish and Kumar, Varun",2010,x,x,x,v,v,v,v,x,x,x,v,x,v
+Intelligence and Security Informatics,"Demers, Alan and Gehrke, Johannes and Hong, Mingsheng and Riedewald, Mirek",2005,v,v,v,v,v,v,v,v,v,v,v,x,x
+On Sample Selection Bias in Large-Scale Online Stream Mining: a Model Indexing Approach,"Deng, Xiong and Ghanem, Moustafa M. and Guo, Yike",,x,x,x,x,v,x,v,x,x,x,v,x,v
+CLUES: A Unified Framework Supporting Interactive Exploration of Density-Based Clusters in Streams,"{Di Yang} and Yang, Di and Guo, Zhenyu and Rundensteiner, Elke A. and Ward, Matthew O.",,x,x,x,x,x,x,v,v,v,x,v,x,x
+Interactive Visual Exploration of Neighbor-Based Patterns in Data Streams âˆ—,"{Di Yang} and Yang, Di and Guo, Zhenyu and Xie, Zaixian and Rundensteiner, Elke and Ward, Matthew",,x,x,v,v,x,v,v,v,v,v,v,v,v
+Summarization and Matching of Density-Based Clusters in Streaming Environments âˆ—,"{Di Yang} and Yang, Di and Rundensteiner, Elke A. and Ward, Matthew O.",,x,x,x,x,v,x,v,x,x,x,v,x,v
+Mining and Linking Patterns across Live Data Streams and Stream Archives âˆ—,"{Di Yang} and Yang, Di and Zhao, Kaiyu and Lu, Hanyuan and Hasan, Maryam and Rundensteiner, Elke and Ward, Matthew",,x,x,v,v,v,v,v,v,v,v,v,x,v
+Classification and dynamic class detection of real time data for tsunami warning system,"Dilectin, H. D. and Mercy, R. B. V.",2012,x,x,x,v,v,v,v,v,v,x,v,x,x
+2013 IEEE 33rd International Conference on Distributed Computing Systems Workshops A Data Analytic Engine Towards Self-Management of Cyber-Physical Systems,"Ding, Min and Chen, Haifeng and Sharma, Abhishek and Yoshihira, Kenji and Jiang, Guofei",,x,x,v,x,v,x,v,v,v,x,v,x,x
+Application of Data Stream Outlier Mining Techniques in Steam Generator Safety Early Warning System of Nuclear Power Plant,"Dingping, Liu and Kaitao, Zheng and Qiqi, Yan",2013,x,x,v,x,v,x,v,v,v,x,v,x,x
+Semi-supervised learning in nonstationary environments,"Ditzler, Gregory and Polikar, Robi",2011,x,x,x,v,v,v,v,x,v,v,v,x,v
+Fast curve segmentation in real time,"Du, Y.a b and Lu, D.a b and Li, D.a b and Wei, W.a b",2007,x,x,x,x,v,x,v,x,x,x,v,x,v
+Adaptive Topologic Optimization for Large-Scale Stream Mining,"Ducasse, Raphael and Turaga, Deepak S and van der Schaar, Mihaela",2010,x,x,x,v,v,v,v,v,v,x,v,x,v
+Scalable infrastructures for data in motion,"Ediger, D. and McColl, R. and Poovey, J. and Campbell, D.",2014,x,x,v,v,v,v,v,v,v,x,v,v,x
+STAGGER: Periodicity mining of data streams using expanding sliding windows,"Elfeky, M.G.a and Aref, W.G.b and Elmagarmid, A.K.b",2006,x,x,x,x,x,v,v,v,v,x,v,x,v
+Using convolution to mine obscure periodic patterns in one pass,"Elfeky, M.G. and Aref, W.G. and Elmagarmid, A.K.",2004,x,x,x,v,v,v,x,v,v,x,v,x,v
+Mining for emerging technologies within text streams and documents,"Engel, D. and Whitney, P. and Calapristi, G. and Brockman, F.",2009,x,v,v,v,v,v,v,v,v,v,v,x,x
+Why does unsupervised pre-training help deep learning?,"Erhan, D. and Courville, A. and Bengio, Y. and Vincent, P.",2010,x,x,x,v,x,v,v,v,v,v,v,x,v
+On the Performance of Virtualized Infrastructures for Processing Realtime Streaming Data,"Ericson, Kathleen and Pallickara, Shrideep",2012,x,v,v,x,v,v,v,v,v,v,v,x,x
+SSM: A frequent sequential data stream patterns miner,"Ezeife, C.I. and Monwar, M.",2007,x,x,x,v,v,v,v,v,v,x,v,x,x
+Novel class detection in concept-drifting data stream mining employing decision tree,"Farid, D.Md. and Rahman, C.M.",2012,x,x,x,x,v,v,v,v,v,x,v,x,v
+An adaptive ensemble classifier for mining concept drifting data streams,"Farid, D.M.a and Zhang, L.a and Hossain, A.a and Rahman, C.M.b and Strachan, R.a and Sexton, G.a and Dahal, K.c",2013,x,x,x,x,v,x,v,x,x,x,v,x,v
+P2P-FISM: Mining (recently) frequent item sets from distributed data streams over \{P2P\} network,Zahra Farzanyar and Mohammadreza Kangavari and Nick Cercone,2013,x,x,v,x,v,v,v,v,v,x,v,x,x
+An Improved Algorithm of Decision Trees for Streaming Data Based on VFDT,{Feixiong Li} and {Quan Liu},2008,x,x,x,x,v,x,v,x,x,x,v,x,v
+Neural network learning algorithms for tracking minor subspace in high-dimensional data stream,"Feng, D.-Z.a and Zheng, W.-X.b and Jia, Y.c",2005,x,x,v,x,v,v,v,v,v,x,x,x,v
+MFISW: A new method for mining frequent itemsets in time and transaction sensitive sliding window,"Feng, J. and Yan, Z. and Kang, Y. and Wang, J. and An, L.",2009,x,x,v,x,v,x,v,v,v,v,v,x,v
+Data stream mining for predicting software build outcomes using source code metrics,"Finlay, J. and Pears, R. and Connor, A.M.",2014,x,x,v,x,v,x,v,v,v,v,v,x,x
+An Adaptive Distributed Ensemble Approach to Mine Concept-Drifting Data Streams,"Folino, Gianluigi and Pizzuti, Clara and Spezzano, Giandomenico",2007,x,x,v,x,v,x,v,v,v,v,v,x,v
+Incremental Learning Algorithms for Fast Classification in Data Stream,"Fong, Simon and Luo, Zhicong and Yap, Bee Wah",2013,v,v,x,v,v,v,v,v,v,v,v,x,v
+Evaluation of stream mining classifiers for real-time clinical decision support system: A case study of blood glucose prediction in diabetes therapy,"Fong, S.a and Zhang, Y.a and Fiaidhi, J.b and Mohammed, O.b and Mohammed, S.b",2013,x,x,v,x,x,v,v,v,v,x,v,x,x
+A distributed approach for optimizing cascaded classifier topologies in real-time stream mining systems.,"Foo, Brian and van der Schaar, Mihaela",2010,x,x,v,v,v,v,x,v,v,x,v,x,x
+BodyCloud: Integration of Cloud Computing and body sensor networks,"Fortino, Giancarlo and Pathan, Mukaddim and {Di Fatta}, Giuseppe",2012,x,x,v,v,v,v,v,v,v,v,v,v,x
+Online and Non-parametric Drift Detection Methods Based on HoeffdingÃ¢â‚¬â„¢s Bounds,"Frias-Blanco, Isvani and del Campo-Avila, Jose and Ramos-Jimenez, Gonzalo and Morales-Bueno, Rafael and Ortiz-Diaz, Agustin and Caballero-Mota, Yaile",2014,x,x,v,x,v,v,x,v,v,x,x,x,v
+Distributed data stream classification for wireless sensor networks,"Gaber, M.M.a and Shiddiqi, A.M.b",2010,x,x,x,v,v,v,v,v,v,x,v,x,v
+Detection and classification of changes in evolving data streams,"Gaber, M.M.a and Yu, P.S.b",2006,x,x,v,x,v,x,v,v,v,x,v,x,v
+Interactive self-adaptive clutter-aware visualisation for mobile data mining,Mohamed Medhat Gaber and Shonali Krishnaswamy and Brett Gillick and Hasnain AlTaiar and Nicholas Nicoloudis and Jonathan Liono and Arkady Zaslavsky,2013,x,x,v,x,v,x,v,v,v,x,v,v,x
+A Wireless Data Stream Mining Model,"Gaber, Mohamed Medhat and Krishnaswamy, Shonali and Zaslavsky, Arkady",,x,x,x,v,v,v,v,v,v,x,v,x,v
+Cost-efficient mining techniques for data streams,"Gaber, Mohamed Medhat and Krishnaswamy, Shonali and Zaslavsky, Arkady",2004,x,v,v,x,v,x,v,v,v,x,v,x,v
+Classification of convective areas using decision trees,"Gagne II, D.J.a and McGovern, A.b and Brotzge, J.c",2009,x,x,v,x,v,v,v,v,v,v,v,x,x
+Using R to Model Click-Stream Data to Understand Users ' Path To Conversion,"Galagate, Douglas and Jank, Professor Wolfgang",,x,v,x,v,v,v,v,v,v,x,v,x,x
+Learning decision trees from dynamic data streams,"Gama, Jo\~{a}o and Medas, Pedro",2005,x,x,x,x,v,x,v,v,v,v,v,x,v
+Decision trees for mining data streams,"Gama, J.a and Fernandes, R.b and Rocha, R.b",2006,x,x,x,x,v,x,v,x,x,x,v,x,v
+Detecting and monitoring abrupt emergences and submergences of episodes over data streams,Min Gan and Honghua Dai,2014,x,v,x,x,v,x,v,v,v,x,v,x,v
+An efficient one-pass method for discovering bases of recently frequent episodes over online data streams,"Gan, M. and Dai, H.",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Research in data stream clustering based on Gaussian Mixture Model Genetic Algorithm,"Gao, Ming-ming and Gao, Xiang-xiang",2010,x,x,x,x,v,x,v,v,v,x,v,x,v
+A Heuristic Method for Unstructured Pattern Management over Data Streams,"Gaoshan, Miao and Hongyan, Li and Tengjiao, Wang",2010,x,x,v,x,v,x,v,v,v,x,v,x,v
+LEARNING FROM DATA STREAMS WITH CONCEPT DRIFTLEARNING FROM DATA STREAMS WITH CONCEPT DRIFT,"Garnett, Roman",,x,x,x,x,v,x,v,x,x,x,v,x,v
+An evaluation framework for traffic information systems based on data streams,Sandra Geisler and Christoph Quix and Stefan Schiffer and Matthias Jarke,2012,x,v,x,v,x,v,v,v,v,v,v,x,x
+Continuous outlier detection in data streams,"Georgiadis, Dimitrios and Kontaki, Maria and Gounaris, Anastasios and Papadopoulos, Apostolos N. and Tsichlas, Kostas and Manolopoulos, Yannis",2013,x,x,x,v,v,v,v,v,v,x,v,x,v
+Clutter-adaptive visualization for mobile data mining,"Gillick, B.a and AlTaiar, H.a and Krishnaswamy, S.a and Liono, J.a and Nicoloudis, N.a and Sinha, A.a and Zaslavsky, A.a and Gaber, M.M.b",2010,x,x,x,v,v,v,v,v,v,v,v,v,x
+Regularly frequent patterns mining from sensor data stream,"Gondal, I. and Kamruzzaman, J.",2013,x,x,x,x,v,x,v,v,v,x,v,x,v
+Dendritic Cells for Anomaly Detection,"Greensmith, J. and Twycross, J. and Aickelin, U.",2006,x,x,x,x,v,x,v,v,v,x,v,x,x
+Toward Predictive Failure Management for Distributed Stream Processing Systems,"Gu, Xiaohui and Papadimitriou, Spiros and Yu, Philip S. and Chang, Shu-Ping",2008,x,x,x,x,v,x,v,x,x,x,v,x,x
+Online Anomaly Prediction for Robust Cluster Systems,"Gu, Xiaohui and Wang, Haixun",2009,x,x,x,x,v,x,v,x,x,x,x,x,x
+Mining frequent patterns across multiple data streams,"Guo, Jing and Zhang, Peng and Tan, Jianlong and Guo, Li",2011,x,x,x,x,v,x,x,v,v,x,v,x,v
+Approximate mining of global closed frequent itemsets over data streams,Lichao Guo and Hongye Su and Yu Qu,2011,x,x,v,v,x,v,v,v,v,x,v,x,v
+A New Algorithm for Mining Global Frequent Itemsets in a Stream,"Guo, Lichao and Su, Hongye and Qu, Yu",2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+Mining closed itemsets in data stream using formal concept analysis,"Gupta, A. and Bhatnagar, V. and Kumar, N.",2010,x,x,v,x,v,v,v,v,v,x,v,x,v
+Mining of multiobjective non-redundant association rules in data streams,"Gupta, A. and Kumar, N. and Bhatnagar, V.",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Using big data and smart field technology for detecting leakage in a CO2 storage project,"Haghighat, S.A. and Mohaghegh, S.D. and Gholami, V. and Shahkarami, A. and Moreno, D.",2013,x,x,x,x,v,x,v,v,v,x,v,x,x
+Open Mobile Miner: A Toolkit for Building Situation-Aware Data Mining Applications,"Haghighi, P.D.a and Krishnaswamy, S.a and Zaslavsky, A.b and Gaber, M.M.c and Sinha, A.a and Gillick, B.a",2013,x,x,x,v,x,v,v,v,v,x,v,x,x
+Mobile Data Mining for Intelligent Healthcare Support,"Haghighi, P.D. and Zaslavsky, A. and Krishnaswamy, S. and Gaber, M.M.",2009,x,x,v,v,v,v,v,v,v,x,v,x,x
+Situation-Aware Adaptive Processing (SAAP) of Data Streams,"Haghighi, Pari Delir and Gaber, Mohamed Medhat and Krishnaswamy, Shonali and Zaslavsky, Arkady",,x,x,v,v,v,v,v,v,v,x,v,x,v
+Online Clustering of Distributed Streaming Data Using Belief Propagation Techniques,"Halkidi, Maria and Koutsopoulos, Iordanis",2011,x,x,v,x,v,x,v,v,v,v,v,x,v
+DOI: 10.1007/s10619-005-3296-1 Stream Cube: An Architecture for Multi-Dimensional Analysis of Data Streams,"Han, Jiawei and Chen, Yixin and Dong, Guozhu and Pei, Jian and Wah, Benjamin W. and Wang, Jianyong and Cai, Y. Dora and Elmagarmid, Ahmed",2005,x,x,v,x,v,x,v,v,v,x,v,v,v
+Hybrid Cube: An Architecture for Analysis of Network Security Events Data Stream,"Han, Yu and Niu, Wei and Zhu, Junmao",2011,x,x,v,x,v,x,v,v,v,v,v,x,v
+Real-time Business Intelligence System Architecture with Stream Mining,"Hang, Yang and Fong, Simon",,x,v,x,v,v,v,v,v,v,x,v,v,v
+Stream mining over fluctuating network traffic at variable data rates,"Hang, Y. and Fong, S.",2010,x,v,x,x,v,x,v,v,v,v,v,x,v
+IMSPMIS-Stream: incremental mining of top-k short sequential pattern over multiple item set streams,"Hao, X.a b and Han, G.a b and Chen, Y.a b and Wang, P.a b and Ren, J.a b",2014,x,x,x,x,v,x,v,x,x,x,v,x,v
+AQS-20 Through-the-Sensor (TTS) Performance Assessment,"Harris, M. and Avera, W. and Steed, C. and Sample, J. and Bibee, L.D. and Morgerson, D. and Hammack, J. and Null, M.",2005,x,v,v,v,v,v,v,v,v,v,v,v,x
+Subspace MOA: Subspace stream clustering evaluation using the MOA framework,"Hassani, M. and Kim, Y. and Seidl, T.",2013,x,x,x,v,v,v,v,x,x,v,v,x,v
+Density-based projected clustering of data streams,"Hassani, M.a and Spaus, P.a and Gaber, M.M.b and Seidl, T.a",2012,x,x,x,x,v,x,v,x,x,x,v,x,v
+Mining and tracking evolving web user trends from large web server logs,"Hawwash, B. and Nasraoui, O.",2010,x,x,x,x,v,x,v,x,x,x,v,x,v
+A real-time stream storage and analysis platform for underwater acoustic monitoring,"Hayes, J. P. and Kolar, H. R. and Akhriev, A. and Barry, M. G. and Purcell, M. E. and McKeown, E. P.",2013,x,x,v,v,v,v,v,v,v,v,v,x,x
+"Electronic Colloquium on Computational Complexity, Report No. 88 (2007) Adaptive Algorithms for Online Decision Problems","Hazan, Elad and Seshadhri, C.",,x,x,x,v,v,v,x,v,v,x,v,x,v
+A Single-pass Online Data Mining Algorithm Combined with Control Theory with Limited Memory in Dynamic Data Streams,"He, Yanxiang and Xiong, Naixue and D\'{e}fago, Xavier and Yang, Yan and He, Jing",,x,x,x,x,v,x,x,v,v,v,v,x,v
+Improving home automation by discovering regularly occurring device usage patterns,"Heierman, E.O. and Cook, D.J.",2003,x,x,v,v,x,v,x,v,v,x,v,x,x
+Mining temporal sequences to discover interesting patterns,"Heierman, Edwin O. and Youngblood, G. Michael and Cook, Diane J.",2004,x,x,x,v,v,v,v,v,v,x,x,x,v
+Frequent Bit Pattern Mining Over Tri-axial Accelerometer Data Streams for Recognizing Human Activities and Detecting Fall,C.Sweetlin Hemalatha and V. Vaidehi,2013,x,x,x,x,v,x,v,x,x,x,v,x,x
+Minimal Infrequent Pattern based approach for mining outliers in data streams,C. Sweetlin Hemalatha and V. Vaidehi and R. Lakshmi,2014,x,x,x,x,v,x,v,x,x,x,v,x,x
+ohmage: An Open Mobile System for Activity and Experience Sampling,"Hicks, John and Ramanathan, Nithya and Falaki, Hossein and Longstaff, Brent and Parameswaran, Kannan and Monibi, Mohamad and Kim, Donnie H. and Selsky, Joshua and Jenkins, John and Tangmunarunkit, Hongsuda and Estrin, Deborah",,x,x,v,x,v,x,v,v,v,v,v,v,x
+Automated Bayesian quality control of streaming rain gauge data,David J. Hill,2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+Learning from data streams via online transduction,"Ho, Shen-Shyang and et Al.",,x,x,x,x,v,x,v,v,v,v,v,x,v
+Automated cyclone discovery and tracking using knowledge sharing in multiple heterogeneous satellite data,"Ho, S.-S. and Talukder, A.",2008,x,x,x,x,v,x,v,v,v,v,x,x,x
+Arterial travel time forecast with streaming data: A hybrid approach of flow modeling and machine learning,Aude Hofleitner and Ryan Herring and Alexandre Bayen,2012,x,x,x,x,v,x,v,v,v,v,v,x,x
+A fuzzy approach for interpretation of ubiquitous data stream clustering and its application in road safety,"Horovitz, O. and Krishnaswamy, S. and Gaber, M.M.",2007,x,x,v,v,v,v,v,v,v,v,v,x,v
+"Bayesian Classification on Spatial Data Streams Using P-Treesâ€™, CS-NDSU","Hossain, Mohammad and Perera, Amal Shehan and Perrizo, William",,x,x,v,v,v,v,v,v,v,v,v,x,v
+Efficiently mining frequent patterns in recent music query streams,{Hua-Fu Li} and {Ming-Ho Hsiao} and {Hsuan-Sheng Chen},2008,x,x,x,x,v,x,v,x,x,x,v,x,x
+Online Mining (Recently) Maximal Frequent Itemsets over Data Streams,{Hua-Fu Li} and {Suh-Yin Lee} and {Man-Kwan Shan},2005,x,x,v,x,v,x,x,v,v,x,v,x,x
+Mining frequent closed structures in streaming melody sequences,{Hua-Fu Li} and {Suh-Yin Lee} and {Man-Kwan Shan},2004,x,x,v,x,v,x,x,v,v,x,v,x,x
+Online mining abnormal period patterns from multiple medical sensor data streams,"Huang, G.a and Zhang, Y.a and Cao, J.b and Steyn, M.a c and Taraporewalla, K.c",2014,x,x,x,x,v,x,v,x,v,v,v,x,x
+A semi-supervised boosting algorithm for mining time-changing data streams,"Huang, S. and Sha, A. and Ma, S.",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+History guided low-cost change detection in streams,"Huang, W. and Omiecinski, E. and Mark, L. and Nguyen, M.Q.",2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+A New Evolving Data Streams System with Data Fusion,"Huijun, Yu and Zhigang, Wang and Xiaoyan, Liu",2012,x,v,x,x,v,x,v,x,v,x,v,x,v
+Feature extraction from sensor data streams for real-time human behaviour recognition,"Hunter, J. and Colley, M.",2007,x,x,x,x,v,v,v,v,v,x,v,x,x
+Finding Recent Frequent Itemsets Adaptively over Online Data Streams,"Hyuk, Joong and Won, Chang and Lee, Suk",,x,x,x,x,v,v,v,v,v,x,v,x,v
+Adaptive Windowing for Online Learning from Multiple Inter-related Data Streams,"Ikonomovska, Elena and Driessens, Kurt and Dzeroski, Saso and Gama, Joao",2011,x,x,x,x,v,x,v,x,x,x,v,x,v
+Learning model trees from evolving data streams,"Ikonomovska, E.a d and Gama, J.b c and DÃ…Â¾eroski, S.a",2011,x,x,x,v,v,v,v,v,v,x,v,x,v
+"Parallel, Incremental and Interactive Mining for","In, Frequent Itemsets and Veloso, Adriano and Meira, Wagner and {De Carvalho}, Marcio Bunte and Parthasarathy, Srinivasan and Zaki, Mohammed",,x,x,v,x,v,x,v,v,v,v,v,x,v
+Detecting current outliers: Continuous outlier detection over time-series data streams,"Ishida, K. and Kitagawa, H.",2008,x,x,x,v,v,v,v,v,v,v,v,x,x
+Towards a New Approach for Mining Frequent Itemsets on Data Stream,"Jain, Shailendra and Patil, Sonal",,x,x,x,v,v,v,v,v,v,x,v,x,v
+Online Algorithms for Complete Itemset Counts Using Set-to-String Mappings,"Jawad, Ahmed and Karim, Asim and Khan, Imdadullah",2006,x,x,v,x,v,x,x,v,v,v,v,x,v
+A load shedding scheme for frequent pattern mining in transactional data streams,"Jea, Kuen-Fang and Li, Chao-Wei and Hsu, Chih-Wei and Lin, Ru-Ping and Yen, Ssu-Fan",2011,x,x,v,v,x,v,v,v,v,x,v,x,x
+Online data stream Mining of Recent Frequent Itemsets based on Sliding Window model,{Jia-Dong Ren} and {Ke Li},2008,x,x,x,x,v,x,v,x,x,x,v,x,v
+Online mining closed frequent itemsets in the time window over data streams,"Jiang, M.a b and Ni, Z.a b and Meng, J.a b and Zhiqiang, Z.a b",2011,x,x,x,x,v,x,x,v,v,x,v,x,v
+An Efficient Algorithm to Mine Online Data Streams,"Jiang, Nan",,x,x,x,x,v,x,v,v,v,x,v,x,v
+L.: Estimating Missing Data in Data Streams,"Jiang, Nan and Gruenwald, Le",2007,x,x,x,x,v,x,v,v,v,x,v,x,v
+Introducing perpetual analytics,"Jonas, J.",2006,z,z,z,z,z,z,z,z,z,z,z,z,z
+Early Drift Detection Method,"Jose, Manuel Baena-Garca and \'{A}vila, Jos\'{e} Del Campo- and Fidalgo, Ra\'{u}l and Bifet, Albert and Gavald\`{a}, Ricard and Morales-bueno, Rafael",,x,x,x,x,v,v,v,v,v,x,v,x,v
+A reference web architecture and patterns for real-time visual analytics on large streaming data,"Kandogan, E.a and Soroker, D.a and Rohall, S.a and Bak, P.a and Van Ham, F.a and Lu, J.a and Ship, H.-J.a and Wang, C.-F.b and Lai, J.a",2014,x,v,v,v,v,v,v,v,v,x,v,x,v
+A novel approach to optimal cutting tool replacement,"Karacal, C.a and Cho, S.a and Yu, W.b",2009,x,v,v,v,v,v,v,v,v,v,v,x,x
+VEDAS: A mobile and distributed data stream mining system for real-time vehicle monitoring,"Kargupta, H.a and Bhargava, R.a and Liu, K.a and Powers, M.a and Blair, P.a and Bushra, S.a and Dull, J.a and Sarkar, K.b and Klein, M.b and Vasa, M.b and Handy, D.b",2004,x,x,v,v,v,v,v,v,v,v,v,x,x
+An adaptive ensemble classifier for mining complex noisy instances in data streams,"Karim, Md. Rejaul and Farid, Dewan Md.",2014,x,x,x,x,v,x,v,v,v,x,v,x,v
+Dynamic evolving spiking neural networks for on-line spatio- and spectro-temporal pattern recognition,Nikola Kasabov and Kshitij Dhoble and Nuttapod Nuntalid and Giacomo Indiveri,2013,x,x,x,x,v,x,x,x,x,x,x,x,v
+Novel document detection for massive data streams using distributed dictionary learning,"Kasiviswanathan, S. P. and Cong, G. and Melville, P. and Lawrence, R. D.",2013,x,v,v,x,v,v,x,v,v,x,v,x,x
+Massive stream data processing to attain anomaly Intrusion Prevention,"Kavitha, C. and Suresh, M.",2012,x,x,v,v,v,v,v,v,v,x,v,x,v
+Processing massive data streams to achieve anomaly intrusion prevention,"Kavitha, C.a and Suresh, M.b",2012,x,x,v,v,v,v,v,v,v,x,v,x,x
+Comparing ODAC and Hierarchical algorithm using time series data streams,"Kavitha, V. and Punithavalli, M.",2010,x,x,v,v,v,v,v,v,v,v,v,v,v
+Anomaly Detection in data streams using fuzzy logic,"Khan, Muhammad Umair",2009,x,v,v,v,v,v,v,v,v,v,v,x,v
+Mining events connections on the social web: Real-time instance matching and data analysis in EventMedia,Houda Khrouf and Vuk Milicic and RaphaÃƒÂ«l Troncy,2014,x,x,v,v,v,v,v,v,v,x,v,v,v
+Real-time sequential pattern mining for USN system,"Kim, J. and Choi, P. and Hwang, B.",2012,x,x,x,x,v,v,v,v,v,x,v,x,v
+A sliding window-based false-negative approach for ubiquitous data stream analysis,"Kim, Y.a and Park, D.-S.b and Kim, H.c and Kim, U.a",2012,x,x,v,x,v,x,v,v,v,x,v,x,v
+A multiagent approach to adaptive continuous analysis of streaming data in complex uncertain environments,"Kiselev, I.a and Alhajj, R.b",2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+A self-stabilizing \{MSA\} algorithm in high-dimension data stream,Xiangyu Kong and Changhua Hu and Chongzhao Han,2010,x,x,v,v,v,v,x,v,v,x,x,x,v
+An Ensemble-based Approach to Fast Classification of Multi-label Data Streams,"Kong, Xiangnan and Yu, Philip S.",,x,x,v,x,v,x,v,v,v,x,v,x,v
+Modeling skew in data streams,"Korn, F.a and Muthukrishnan, S.b and Wu, Y.b",2006,x,x,v,x,v,x,x,v,v,x,v,x,x
+Very fast decision rules for multi-class problems,"Kosina, P.a b and Gama, J.a c",2012,x,x,x,x,v,v,v,x,v,x,v,x,v
+Mining Named Entities with Temporally Correlated Bursts from Multilingual Web News Streams,"Kotov, Alexander and Zhai, Chengxiang and Sproat, Richard",,x,x,v,x,v,v,v,x,x,x,v,x,v
+Hierarchical clustering for real-time stream data with noise,"Kranen, Philipp and Reidl, Felix and Villaamil, Fernando Sanchez and Seidl, Thomas",2011,x,x,x,v,v,v,v,v,v,x,v,x,v
+Real-time data analysis in ClowdFlows,"Kranjc, Janez and Podpecan, Vid and Lavrac, Nada",2013,v,x,v,v,v,v,v,v,v,x,v,x,x
+Active learning for sentiment analysis on data streams: Methodology and workflow implementation in the ClowdFlows platform,"Kranjc, J.a b and SmailoviÃ„â€¡, J.a b and PodpeÃ„ï¿½an, V.a c and GrÃ„ï¿½ar, M.a and Ã…Â½nidarÃ…Â¡iÃ„ï¿½, M.a and LavraÃ„ï¿½, N.a b d",2014,x,v,v,v,v,v,v,v,v,x,v,x,v
+Nearest Neighbor Distributions for imbalanced classification,"Kriminger, Evan and Principe, Jose C. and Lakshminarayan, Choudur",2012,x,x,v,x,v,v,v,x,v,x,v,x,v
+Online identification of frequently executed acyclic paths by leveraging data stream algorithms,"Kumar, G.a b and Roy, S.a",2013,v,x,v,v,v,v,v,v,v,v,v,x,v
+"G. Vijay Kumar, M. Sreedevi \& NVS Pavan Kumar Mining Regular Patterns in Data Streams Using Vertical Format","Kumar, G. Vijay and Sreedevi, M.",,x,x,v,x,v,x,v,v,v,x,v,x,v
+Finding correlated heavy-hitters over data streams,"Lahiri, Bibudh and Tirthapura, Srikanta",2009,x,v,v,x,v,v,x,v,v,x,v,x,v
+A hybrid fraud scoring and spike detection technique in streaming data,"Laleh, N. and Abdollahi Azgomi, M.",2010,x,x,v,x,v,x,v,v,v,x,v,x,x
+Mining a stream of transactions for customer patterns,"Lambert, Diane and Pinheiro, Jos C.",2001,x,x,v,x,v,v,v,v,v,x,x,x,v
+Enhanced Anytime Algorithm for Induction of Oblivious Decision Trees,"Last, Mark and Saveliev, Albina",,x,x,x,x,v,x,v,v,v,x,v,x,v
+Analyzing feasibility for deploying very fast decision tree for DDoS attack detection in cloud-assisted WBAN,"Latif, R.a and Abbas, H.a b and Assar, S.c and Latif, S.a",2014,x,v,v,v,v,v,x,v,v,v,v,x,x
+Finding maximal frequent itemsets over online data streams adaptively,"Lee, D. and Lee, W.",2005,x,x,v,x,v,v,v,v,v,x,v,x,v
+A single pass algorithm of finding frequent vibrated items over online data streams,"Lee, G. and Chen, Q.-T.",2007,x,x,v,v,v,v,v,v,v,x,v,x,v
+A coarse-grain grid-based subspace clustering method for online multi-dimensional data streams,"Lee, Jae Woo and Lee, Won Suk",2008,x,x,v,v,v,v,x,v,v,x,v,x,v
+Efficiently tracing clusters over high-dimensional on-line data streams,Jae Woo Lee and Nam Hun Park and Won Suk Lee,2009,x,x,v,v,v,v,x,v,v,x,v,x,v
+Evolving fuzzy granular modeling from nonstationary fuzzy data streams,"Leite, D.a and Ballini, R.b and Costa, P.c and Gomide, F.a",2012,x,x,v,v,v,x,x,v,v,x,v,x,x
+Parameter estimation of dynamic fuzzy models from uncertain data streams,"Leite, Daniel and Caminhas, Walmir and Lemos, Andre and Palhares, Reinaldo and Gomide, Fernando",2014,x,x,v,v,v,v,x,v,v,x,v,x,v
+Evolving granular neural networks from fuzzy data streams,Daniel Leite and Pyramo Costa and Fernando Gomide,2013,x,x,v,v,v,x,x,x,x,x,x,x,x
+Evolving Granular Fuzzy Model-Based Control of Nonlinear Dynamic Systems,"Leite, Daniel and Palhares, Reinaldo and Campos, Victor and Gomide, Fernando",2014,v,x,v,v,v,v,x,v,v,x,v,x,v
+An approach of support approximation to discover frequent patterns from concept-drifting data streams based on concept learning,"Li, C.-W. and Jea, K.-F.",2013,x,x,v,x,v,x,x,v,v,x,v,x,v
+An improved algorithm of decision trees for streaming data based on VFDT,"Li, F. and Liu, Q.",2008,x,x,x,x,v,x,v,v,v,x,v,x,v
+Predictive queries algorithm based on probability model over data streams,"Li, G. and Chen, H. and Yang, B. and Chen, G. and Xiang, J.",2007,x,v,v,v,v,x,v,v,v,x,v,x,v
+Forest cover types classification based on online machine learning on distributed cloud computing platforms of storm and SAMOA,"Li, G.D. and Wang, G.Y. and Zhang, X.R. and Deng, W.H. and Zhang, F.",2014,x,x,v,v,v,x,v,v,v,v,v,x,x
+Mining the frequent patterns in an arbitrary sliding window over online data streams,"Li, G.-H. and Chen, H.",2008,x,x,x,x,v,x,v,v,v,x,v,x,v
+Online learning with mobile sensor data for user recognition,"Li, H.a and Wu, X.b and Li, Z.c",2014,x,x,v,x,v,x,v,x,x,x,v,x,x
+MHUI-max: An efficient algorithm for discovering high-utility itemsets from data streams,"Li, H.-F.",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+Incremental updates of closed frequent itemsets over continuous data streams,Hua-Fu Li and Chin-Chuan Ho and Suh-Yin Lee,2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+Efficiently mining frequent patterns in recent music query streams,"Li, H.-F.a and Hsiao, M.-H.b and Chen, H.-S.b",2008,x,x,x,x,v,x,v,v,v,x,v,x,x
+Mining frequent itemsets over data streams using efficient window sliding techniques,Hua-Fu Li and Suh-Yin Lee,2009,x,x,v,x,v,x,v,x,x,x,v,x,v
+DSM-PLW: Single-pass mining of path traversal patterns over streaming Web click-sequences,Hua-Fu Li and Suh-Yin Lee and Man-Kwan Shan,2006,x,x,v,v,v,x,x,v,v,x,v,x,v
+Online mining (recently) maximal frequent itemsets over data streams,"Li, H.-F.a and Lee, S.-Y.a and Shan, M.-K.b",2005,x,x,v,x,v,x,x,v,v,x,v,x,v
+Online mining changes of items over continuous append-only and dynamic data streams,"Li, H.-F.a and Lee, S.-Y.a and Shan, M.-K.b",2005,x,x,v,v,v,x,x,v,v,x,v,x,v
+Mining frequent closed structures in streaming melody sequences,"Li, H.-F.a and Lee, S.-Y.a and Shan, M.-K.b",2004,x,x,v,v,v,x,x,v,v,x,v,x,x
+DSM-FI: An efficient algorithm for mining frequent itemsets in data streams,"Li, H.-F.a and Shan, M.-K.b and Lee, S.-Y.c",2008,x,x,v,x,v,x,x,x,x,x,v,x,v
+Online mining of frequent query trees over XML data streams,"Li, H.-F.a and Shan, M.-K.b and Lee, S.-Y.a",2006,x,x,v,v,v,v,v,v,v,x,v,x,v
+Mining Top-K path traversal patterns over streaming Web click-sequences,"Li, H.-F.a b and Lee, S.-Y.b",2009,x,x,v,v,v,x,v,v,v,x,v,x,x
+Predicting sequential pattern changes in data streams,"Li, I.-H.a b and Huang, J.-Y.a and Liao, I.-E.a",2012,x,x,x,v,v,x,v,v,v,x,v,x,v
+Mining recurring concept drifts with limited labeled streaming data,"Li, P.a and Wu, X.a b and Hu, X.a",2012,x,x,v,x,v,x,v,x,x,x,v,x,v
+A real-time architecture for NIDS based on sequence analysis,"Li, Q.-H.a b and Zhao, F.a b and Zhao, Y.-B.a b",2005,x,x,x,v,v,x,x,v,v,x,v,x,x
+Online windowed subsequence matching over probabilistic sequences,"Li, Zheng and Ge, Tingjian",2012,x,x,v,x,v,v,v,v,v,x,v,x,v
+A Unifying Method for Outlier and Change Detection from Data Streams,"Li, Zhi and Ma, Hong and Zhou, Yongdao",2006,x,x,v,v,v,v,x,v,v,x,v,x,v
+Efficient Similarity Search over Future Stream Time Series,"Lian, Xiang and Chen, Lei",2008,x,x,v,x,v,x,v,v,v,x,v,x,x
+Continuous adaptive mining the thin skylines over evolving data stream,"Liang, G.a and Su, L.b",2007,x,x,v,x,v,x,v,v,v,x,v,x,v
+Anomaly detection in GPS data based on visual analytics,"Liao, Z.a and Yu, Y.a and Chen, B.b",2010,x,x,v,v,v,v,v,v,v,x,v,x,x
+Real-time Detection for Anomaly Data in Microseismic Monitoring System,"Li-li, Liu and Chang-peng, Ji",2009,x,x,v,x,v,x,v,v,v,x,v,x,x
+Clustering of streaming time series is meaningless,"Lin, J. and Keogh, E. and Truppel, W.",2003,x,x,x,x,v,x,x,v,v,x,v,x,v
+Approximate processing of massive continuous quantile queries over high-speed data streams,"Lin, X.a b g h and Xu, J.a c i and Zhang, Q.a d j and Yu, J.X.a e k and Zhou, X.f l m n o and Yuan, Y.b p",2006,x,x,v,x,v,x,x,v,v,x,x,x,v
+Research into the network security model blended of data stream mining and intrusion detection system,"Lin, Zhu and Can-Shi, Zhu",2012,x,x,v,x,v,x,v,v,v,v,v,x,v
+Stream Data Classification Using Improved Fisher Discriminate Analysis,"Ling, Chen and Ling-jun, Zou and Li, Tu",,x,x,x,x,v,x,v,v,v,x,v,x,v
+Step-by-step regression: A more efficient Alternative for polynomial multiple linear regression in stream cube,"Liu, C.a and Zhang, M.a and Zheng, M.a and Chen, Y.b",2003,x,x,x,x,v,x,v,v,v,x,v,x,v
+Online mining frequent closed itemsets over data stream,"Liu, C. and Zheng, Z. and Cai, K. and Zhang, S.",2008,x,x,x,v,v,x,v,v,v,x,v,x,v
+Online Chinese restaurant process,"Liu, C.-L.a and Tsai, T.-H.b and Lee, C.-H.b",2014,x,x,x,x,v,v,v,v,v,x,x,x,v
+Application of data stream outlier mining techniques in steam generator safety early warning system of nuclear power plant,"Liu, D. and Zheng, K. and Yan, Q.",2013,x,x,v,x,v,x,v,v,v,x,v,x,x
+Effects of multiple collaborated data streams in wireless sensor networks,"Liu, Li and Hong, Xiaoyan and Zhang, Jingyuan",2009,v,v,v,v,v,v,v,v,v,v,v,x,x
+Online supervised learning for digital library,"Liu, N.a and Zhang, B.b and Yan, J.c and Xi, W.d and Yan, S.b and Chen, Z.b and Bai, F.a and Ma, W.-Y.b",2004,v,x,v,x,v,v,v,v,v,x,v,x,v
+Mining frequent closed itemsets from a landmark window over online data streams,Xuejun Liu and Jihong Guan and Ping Hu,2009,x,x,v,x,v,v,v,v,v,x,v,x,v
+Mining frequent patterns in data streams,"Liu, X.a b and Xu, H.a and Dong, Y.a and Wang, Y.a and Qian, J.a",2005,x,x,v,x,v,x,x,v,v,x,v,x,v
+Dynamically mining frequent patterns over online data streams,"Liu, X.a b and Xu, H.a and Dong, Y.a and Wang, Y.a and Qian, J.a",2005,x,x,x,x,v,x,v,v,v,x,v,x,v
+Real-time data pre-processing technique for efficient feature extraction in large scale datasets,"Liu, Y.a and Lita, L.V.b and Niculescu, R.S.b and Bai, K.a and Mitra, P.a and Giles, C.L.a",2008,x,x,v,x,v,x,v,x,x,x,v,x,v
+Clustering text data streams,"Liu, Y.-B.a and Cai, J.-R.a and Yin, J.a and Fu, A.W.-C.b",2008,x,x,x,x,v,v,x,v,v,x,v,x,v
+Online Algorithms for Mining Inter-Stream Associations from Large Sensor Networks,"Loo, K. K. and Tong, Ivy and Kao, Ben and Cheung, David",2005,x,x,x,x,v,v,v,v,v,x,v,x,v
+Streaming hierarchical clustering for concept mining,"Looks, M. and Levine, A. and Covington, G.A. and Loui, R.P. and Lockwood, J.W. and Cho, Y.H.",2007,x,x,v,x,v,v,x,v,v,x,v,x,v
+Designing a programmable wire-speed regular-expression matching accelerator,"Lunteren, J.V.a and Hagleitner, C.a and Heil, T.b and Biran, G.c and Shvadron, U.c and Atasu, K.a",2012,x,v,v,v,v,v,x,v,v,v,x,x,v
+"Continuous, online monitoring and analysis in large water distribution networks","Ma, X.a b and Xiao, H.a b and Xie, S.a b and Li, Q.a b and Luo, Q.c and Tian, C.d",2011,x,x,v,v,v,v,v,v,v,x,x,x,x
+SIC-means: A semi-fuzzy approach for clustering data streams using C-means,"Magdy, A. and Bassiouny, M.K.",2010,x,x,x,x,v,x,x,v,v,x,v,x,v
+Representation Search through Generate and Test,"Mahmood, Ashique Rupam and Sutton, Richard S.",,x,v,v,v,v,v,v,v,v,x,v,x,v
+Knowledge Discovery in Data Mining and Massive Data Mining,"Malini, Mrs and Patil, M",,,,,,,,,,,,,,v
+A privacy preserving data mining methodology for dynamically predicting emerging human threats,"Manohar, G.a and Tucker, C.S.b",2013,x,x,v,v,x,v,v,v,v,x,v,x,x
+Mining maximal frequent itemsets from data streams,"Mao, G.a b and Wu, X.a and Zhu, X.a and Chen, G.a and Liu, C.b",2007,x,x,x,x,v,x,x,v,v,x,v,x,v
+Medical data mining for early deterioration warning in general hospital wards,"Mao, Y.a and Chen, Y.b and Hackmann, G.b and Chen, M.b and Lu, C.b and Kollef, M.c and Bailey, T.C.c",2011,x,x,v,x,v,x,v,v,v,x,v,x,x
+Fast mining of closed frequent itemsets in data streams,"Mao, Y.a and Chen, Z.b and Liu, L.b",2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+A mining maximal frequent itemsets over the entire history of data streams,"Mao, Y. and Li, H. and Yang, L. and Chen, Z. and Liu, L.",2009,x,x,v,x,v,x,x,v,v,x,v,x,v
+An intrusion detection model based on data mining over data,"Mao, Y.-M.a b and Yang, L.-M.a and Chen, Z.-G.a and Liu, L.-X.a",2011,x,x,v,x,v,v,x,v,v,x,v,x,x
+Imputation of streaming low-rank tensor data,"Mardani, M. and Mateos, G. and Giannakis, G.B.",2014,x,x,v,x,v,x,v,v,v,x,v,x,x
+Time stamping in the presence of latency and drift,"Marrs, G.R. and Hickey, R.J. and Black, M.M.",2011,v,x,x,x,v,v,v,v,v,x,v,x,v
+Heuristic methods for automating event detection on sensor data in near real-time,"Mauer, D. and Lai, B. and Casper, J. and Leveille, P. and Hu, J. and Albuquerque, R. and Cheung, E.",2011,x,x,v,v,x,v,v,v,v,v,v,x,x
+Towards Scalable One-Pass Analytics Using MapReduce,"Mazur, Edward and Li, Boduo and Diao, Yanlei and Shenoy, Prashant",2011,x,x,x,x,v,v,x,v,v,x,v,x,v
+Amplifying the voice of youth in Africa via text analytics,"Melville, Prem and Chenthamarakshan, Vijil and Lawrence, Richard D. and Powell, James and Mugisha, Moses and Sapra, Sharad and Anandan, Rajesh and Assefa, Solomon",2013,x,x,v,v,v,v,x,v,v,v,x,x,x
+Mining developing trends of dynamic spatiotemporal data streams,"Meng, Y. and Dunham, M.H.",2006,v,x,v,x,v,x,x,v,v,x,v,x,v
+A heuristic method for unstructured pattern management over data streams,"Miao, G.a and Li, H.b and Wang, T.c",2010,x,x,v,x,v,v,v,v,v,x,v,x,v
+"Real-time spatio-temporal data mining with the ""streamonas"" data stream management system","Michael, P.A. and Stott Parker, D.",2009,v,x,x,x,v,x,v,v,v,x,v,x,v
+Data stream mining with multiple sliding windows for continuous prediction,"Mimran, O. and Even, A.",2014,x,x,v,v,v,x,x,v,v,x,v,x,x
+Data stream mining based real-time highspeed traffic classification,"Mingliang, G.a and Xiaohong, H.a and Xu, T.a and Yan, M.a b and Zhenhua, W.a",2009,x,x,v,x,v,x,x,v,v,v,v,x,x
+The TDAQ analytics dashboard: A real-time web application for the ATLAS TDAQ control infrastructure,"Miotto, G.L. and Magnoni, L. and Sloper, J.E.",2011,x,x,v,v,v,x,v,v,v,x,v,x,x
+Internet Information Retrieval for Enabling Student Projects,"Mohamed, Nader and Al-Jaroodi, Jameela and Jawhar, Imad",2009,v,x,v,v,v,v,v,v,v,v,v,v,x
+Flexible least squares for temporal data mining and statistical arbitrage,Giovanni Montana and Kostas Triantafyllopoulos and Theodoros Tsagaris,2009,x,x,x,x,v,v,x,v,v,x,v,x,x
+Service-based approach for intelligent agent frameworks,"Mora, R.P.a and Hill, J.L.b",2011,v,x,v,v,v,v,v,v,v,v,v,v,v
+Tracking dynamics of topic trends using a finite mixture model,"Morinaga, S. and Yamanishi, K.",2004,x,x,v,v,v,x,v,v,v,x,x,x,x
+Fast computation of approximate biased histograms on sliding windows over data streams,"Mousavi, H. and Zaniolo, C.",2013,x,x,v,v,v,v,v,x,x,x,v,v,x
+Verifying and Mining Frequent Patterns from Large Windows over Data Streams,"Mozafari, Barzan and Thakkar, Hetal and Zaniolo, Carlo",2008,x,x,x,v,v,v,v,x,x,x,x,x,v
+Data-centered service composition for information analysis,"Murakami, Y. and Tanaka, M. and Bramantoro, A. and Zettsu, K.",2012,v,v,x,v,v,v,v,v,v,x,v,v,v
+DSCLU: A new data stream CLUstring algorithm for multi density environments,"Namadchian, A.a and Esfandani, G.b",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Modeling microtext with higher order learning,"Nelson, C.a and Keiler, H.b and Pottenger, W.M.c",2013,x,x,v,x,v,x,x,v,v,x,x,x,x
+A test paradigm for detecting changes in transactional data streams,"Ng, W. and Dash, M.",2008,x,x,x,x,v,v,x,v,v,x,v,x,v
+Online learning from imbalanced data streams,"Nguyen, H.M.a and Cooper, E.W.b and Kamei, K.b",2011,x,x,x,x,v,v,v,v,v,x,v,x,v
+Grid-based Mobile Phone Fraud Detection System,"Nguyen, Tho Manh and Tjoa, A Min",2004,v,x,v,v,v,v,v,v,v,v,v,x,x
+Online mining closed frequent itemsets in mixed window over data streams,"Ni, Z.-W.a b and Jiang, M.a b and Wang, C.a b and Dai, Q.-B.a b",2010,x,x,x,x,v,x,v,v,v,x,v,x,v
+Accurate subsequence matching on data stream under time warping distance,"Niennattrakul, Vit and Wanichsan, Dechawut and Ratanamahatana, Chotirat Ann",2009,x,x,x,x,v,x,x,x,v,x,v,x,v
+ACE: Adaptive classifiers-ensemble system for concept-drifting environments,"Nishida, K. and Yamauchi, K. and Omori, T.",2005,x,x,x,x,v,x,v,v,v,x,v,x,v
+Real-Time Monitoring and Long-Term Analysis by Means of Embedded Systems,"Noack, Tino and Prof, Supervised and Schmitt, Ingo and Cottbus, Tu",,v,x,v,v,v,v,v,v,v,v,v,v,v
+Learning in Environments with Unknown Dynamics: Towards more Robust Concept Learners,"Núñez , Marlon and Fidalgo, Raúl and Morales, Rafael",2007,x,x,x,x,v,x,v,v,v,x,v,x,v
+From real-time data to production optimization,"Oberwinkler, C. and Stundner, M.",2005,x,x,v,v,v,v,x,v,v,v,v,x,x
+Online association rule mining over fast data,"Olmezogullari, E. and Ari, I.",2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+Fuzzy knowledge representation study for incremental learning in data streams and classification problems,"Orriols-Puig, A.a and Casillas, J.b",2011,x,x,x,x,v,x,v,x,v,v,v,x,v
+An efficient decision tree classification method based on extended hash table for data streams mining,"Ouyang, Z.a and Wu, Q.b and Wang, T.b",2008,x,x,x,v,v,v,v,v,v,x,v,x,v
+Competitive and online piecewise linear classification,"Ozkan, H.a and Donmez, M.A.b and Pelvan, O.S.c and Akman, A.c and Kozat, S.S.a",2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+Prolonged sitting detection for office workers syndrome prevention using kinect,"Paliyawan, P. and Nukoolkit, C. and Mongkolnam, P.",2014,x,x,x,x,v,x,x,x,x,x,v,x,x
+Online Selection of Diverse Results,"Panigrahi, Debmalya and Das, Atish and Gagan, Sarma and Tomkins, Aggarwal Andrew",,x,x,v,x,v,v,v,v,v,x,v,x,v
+Adaptive trace of multi-dimensional clusters by monitoring data streams,"Park, N.H.a and Joo, K.H.b and Han, S.Y.a",2013,x,x,x,x,v,v,v,v,v,x,v,x,v
+Rapidly labeling and tracking dynamically evolving concepts in data streams,"Parker, B.S. and Khan, L.",2013,x,v,v,v,v,v,v,x,v,v,v,x,v
+Concept adapting real-time data stream mining for health care applications,"Patil, D.D. and Mudkanna, J.G. and Rokade, D. and Wadhai, V.M.",2012,x,v,x,v,v,v,v,x,v,v,v,x,x
+Dynamic data mining approach to WMRHM,"Patil, D.D.a and Wadhai, V.M.b",2012,x,x,v,v,v,v,v,v,v,v,v,x,x
+Real-time analytics processing with MapReduce,"Peng, C.-Z.a and Jiang, Z.-J.a and Cai, X.-B.b and Zhang, Z.-K.a",2012,x,x,x,v,v,v,v,v,v,x,v,x,v
+Enabling the integration of clinical event and physiological data for real-time and retrospective analysis,"Percival, J.a and McGregor, C.a and Percival, N.b and James, A.c d",2014,x,x,v,x,v,v,v,v,v,v,v,v,x
+Event Mining with Event Processing Networks,"Perrochon, Louis and Mann, Walter and Kasriel, Stephane and Luckham, David C.",1999,v,x,v,v,v,v,v,v,v,x,v,x,v
+On-Line Cumulative Learning of Hierarchical Sparse n-Grams,"Pfleger, Karl",2004,x,x,x,v,v,v,x,v,v,x,v,x,v
+Detection of cross-channel anomalies,"Pham, D.-S.a and Saha, B.b and Phung, D.Q.b and Venkatesh, S.b",2013,x,x,x,x,v,x,x,x,x,x,v,x,v
+Mining top-k rank frequent patterns in data streams a tree based approach with ternary function and ternary feature vector,"PhridviRaj, M.S.B.a and Guru Rao, C.V.b",2013,x,v,v,v,v,v,v,v,v,v,v,x,v
+Resource-aware Online Data Mining in Wireless Sensor Networks,"Phung, Nhan Duc and Gaber, Mohamed Medhat and Rohm, Uwe",2007,x,x,v,x,v,x,v,v,v,v,v,x,x
+Recent frequent itemsets mining over data streams,"Pramod, S.a and Vyas, O.P.b",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Streamlining CASTOR to manage the LHC data torrent,"Presti, G.L. and Curull, X.E. and Cano, E. and Fiorini, B. and Ieri, A. and Murray, S. and Ponce, S. and Sindrilaru, E.",2014,v,v,x,v,v,v,x,v,v,v,v,v,v
+Adaptively detecting aggregation bursts in data streams,"Qin, List Shouke and Qin, Shouke and Qian, Weining and Zhou, Aoying",2005,,,,,,,,,,,,,v
+Approximately processing multi-granularity aggregate queries over data streams,"Qin, S.a and Qian, W.a and Zhou, A.a b",2006,x,x,x,x,v,v,x,v,v,x,x,x,v
+A real-time architecture for NIDS based on sequence analysis,{Qing-Hua Liu} and {Feng Zhaoi} and {Feng Zhao},2005,x,x,v,v,v,v,x,v,v,v,v,x,x
+Grid-based Data Stream Clustering for Intrusion Detection,"Quan, Qian and Xiao, Chao-jie and Zhang, Rui",2011,v,x,x,x,v,x,v,v,v,x,v,x,v
+Addressing big data time series: Mining trillions of time series subsequences under dynamic time warping,"Rakthanmanon, T.a and Campana, B.b and Mueen, A.b and Batista, G.c and Westover, B.d and Zhu, Q.b and Zakaria, J.b and Keogh, E.b",2013,x,x,x,x,v,v,x,x,x,x,v,x,v
+A dynamic approach for mining generalised sequential patterns in time series clinical data sets,"Rasheeda Shameem, M.a and Razia Naseem, M.a and Subanivedhi, N.K.a and Sethukkarasi, R.b",2013,x,x,v,x,v,x,v,v,v,x,v,x,x
+Mining associated sensor patterns for data stream of wireless sensor networks,"Rashid, Md.M. and Gondal, I. and Kamruzzaman, J.",2013,x,x,x,x,v,x,x,v,v,x,v,x,v
+Mining multidimensional sequential patterns over data streams,"Rassi, C. and Plantevit, M.",2008,x,x,x,x,v,x,x,v,v,x,v,x,v
+Mining unstructured text at gigabyte per second speeds,"Ratner, A.",2008,x,v,v,v,v,v,v,v,v,v,v,x,v
+Component-based framework for mobile data mining with support for real-time sensors,"Rautio, T. and Laurinen, P. and RÃƒÂ¶ning, J.",2009,x,x,x,v,x,v,v,v,v,x,v,x,v
+Anomalous pattern detection using context aware ubiquitous data mining,"ur Rehman, Z.a and Shahbaz, M.a and Shaheen, M.a and Mehmood, S.a and Masood, S.A.b",2012,x,x,v,v,v,v,v,v,v,v,v,x,v
+Density-based data streams subspace clustering over weighted sliding windows,"Ren, J.a and Cao, S.a and Hu, C.b",2011,,,,,,,,,,,,,v
+Density-Based Data Streams Subspace Clustering over Weighted Sliding Windows,"Ren, Jiadong and Cao, Shiyuan and Hu, Changzhen",2010,x,x,v,v,v,x,v,v,v,x,v,x,v
+Online mining frequent path traversal patterns in web click streams,"Ren, J. and Feng, J.",2008,x,x,x,x,v,x,v,v,v,x,v,x,v
+An algorithm based on prime-block encoding for mining frequent patterns in data streams,"Ren, J.a and Wang, Q.a and Wang, M.b",2011,x,x,v,x,v,v,v,v,v,v,v,x,v
+An algorithm based on equal - length bit table for mining frequent patterns in data streams,"Ren, J.a and Wang, Q.a and Wang, M.b and Feng, S.a",2011,v,x,x,x,v,v,x,v,v,x,v,x,v
+Online data stream mining of recent frequent itemsets based on sliding window model,"Ren, J.-D. and Li, K.",2008,x,x,x,x,v,x,v,x,x,x,v,x,v
+Discovery and diagnosis of behavioral transitions in patient event streams,"Robinson, William N. and Akhlaghi, Arash and Deng, Tianjie and Syed, Ali Raza",2012,x,v,v,v,v,v,v,v,v,v,v,x,x
+Online evaluation of patterns from evolving web data streams,"Rojas, C. and Nasraoui, O.",2009,x,x,v,x,v,v,v,v,v,v,v,x,v
+Adaptive middleware for real-time prescriptive analytics in large scale power systems,"Rusitschka, S.a and Doblander, C.b and Goebel, C.b and Jacobsen, H.-A.b",2013,x,v,v,v,v,v,v,v,v,x,v,v,v
+Frequent Itemset mining over transactional data streams using Item-Order-Tree,"S, Pramod and Vyas, O. P.",,x,x,v,v,v,v,v,v,v,x,v,x,v
+Improving data partition schemes in Smart Grids via clustering data streams,Andreu Sancho-Asensio and Joan Navarro and Itziar Arrieta-Salinas and JosÃƒÂ© Enrique ArmendÃƒÂ¡riz-Ãƒï¿½ÃƒÂ±igo and Virginia JimÃƒÂ©nez-Ruano and AgustÃƒÂ­n Zaballos and Elisabet Golobardes,2014,x,x,x,x,v,x,v,v,v,x,v,x,v
+Probing of geospatial stream data to report disorientation,"Saravanan, M. and Sundar, D. and Kumaresh, V.S.",2013,x,x,v,v,v,v,v,v,v,v,v,x,x
+Esc: Towards an elastic stream computing platform for the cloud,"Satzger, B. and Hummer, W. and Leitner, P. and Dustdar, S.",2011,v,x,x,v,x,v,v,v,v,v,v,x,v
+"Adaptation, learning, and optimization over networks","Sayed, A.H.",2014,x,v,x,v,v,v,x,v,v,v,v,v,v
+Scalable clustering and keyword suggestion for online advertisements,"Schwaighofer, A. and Candela, J.Q. and Borchert, T. and Graepel, T. and Herbrich, R.",2009,x,x,x,x,v,v,v,v,v,x,x,x,x
+"Reverse hashing for high-speed network monitoring: Algorithms, evaluation, and applications","Schweller, Robert and Li, Zhichun and Chen, Yan and Gao, Yan and Gupta, Ashish and Zhang, Yin and Dinda, Peter and Kao, Ming-yang and Memik, Gokhan",2004,x,x,v,x,v,x,x,x,v,x,v,x,x
+A Novel Weight Adjustment Method for Handling Concept-Drift in Data Stream Classification,"Shahparast, H. and Jahromi, M.Z. and Taheri, M. and Hamzeloo, S.",2014,x,x,x,x,v,x,v,x,x,x,v,x,v
+An on-line and off-line pipeline-based architecture of the system for gaps and outlier detection in energy data stream,"Shcherbakov, M.a and Timofeev, Y.a and Saprykin, A.a and Trushin, V.a and Tyukov, A.a and Shcherbakova, N.a and Kamaev, V.a and Brebels, A.b",2013,x,x,v,v,v,x,v,v,v,v,v,x,x
+Using on-the-move mining for mobile crowdsensing,"Sherchan, W.a and Jayaraman, P.P.a and Krishnaswamy, S.a b and Zaslavsky, A.c and Loke, S.d and Sinha, A.a",2012,v,x,x,x,v,x,v,x,x,x,v,x,x
+An integrated machine learning and control theoretic model for mining concept-drifting data streams,"Shetty, Sachin and Mukkavilli, Sai Kiran and Keel, L. H.",2011,x,x,x,v,v,v,x,v,v,x,v,x,x
+Efficient algorithms for mining maximal high utility itemsets from data streams with different models,Bai-En Shie and Philip S. Yu and Vincent S. Tseng,2012,x,x,x,x,v,x,v,x,x,x,v,x,v
+CP-tree: An adaptive synopsis structure for compressing frequent itemsets over online data streams,"Shin, S.J. and Lee, D.S. and Lee, W.S.",2014,x,x,v,v,v,v,x,v,v,x,v,x,v
+"DIY GIS: A constructionist, educational toolkit for architecture students","Simeone, L.a b and Lupi, G.c and Patelli, P.c and Iaconesi, S.b and Persico, O.b",2012,x,x,v,v,v,v,v,v,v,x,v,x,x
+Modeling and Optimization for Big Data Analytics: (Statistical) learning tools for our era of data deluge,"Slavakis, Konstantinos and Giannakis, Georgios B. and Mateos, Gonzalo",2014,x,v,x,v,v,v,x,v,v,v,v,x,v
+Process neural network modeling for real time short-term traffic flow prediction,"Song, G.-J.a and Hu, C.a and Xie, K.-Q.a and Peng, R.b",2009,x,x,x,x,v,x,v,v,v,x,v,x,x
+Estimation and maintenance of frequent pattern on data streams,"Song, G.-J. and Tang, S.-W. and Yang, D.-Q. and Wang, T.-J.",2004,x,x,v,x,v,v,v,v,v,v,v,x,v
+Body sensor data processing using stream computing,"Sow, D. and Biem, A. and Blount, M. and Ebling, M. and Verscheure, O.",2010,x,x,v,v,v,v,v,v,v,x,v,x,x
+Real-time prognosis of ICU physiological data streams.,"Sow, D. and Biem, A. and Sun, J. and Hu, J. and Ebadollahi, S.",2010,v,x,v,v,v,v,v,v,v,v,v,x,x
+ERules: A modular adaptive classification rule learning algorithm for data streams,"Stahl, F.a and Gaber, M.M.b and Salvador, M.M.a",2012,x,x,x,v,v,v,v,v,v,x,v,x,v
+Adaptive mining of sparse skyline over data stream,"Su, L. and Zou, P. and Jia, Y.",2008,x,x,x,x,v,x,x,x,x,x,v,x,v
+Adaptive cascade of boosted ensembles for face detection in concept drift,"Susnjak, T. and Barczak, A.L.C. and Hawick, K.A.",2012,x,x,v,x,v,x,x,v,v,x,v,x,v
+Adaptive budget for online learning,"Tabatabaei, T.S. and Karray, F. and Kamel, M.S.",2013,x,x,x,x,v,x,v,v,v,v,v,x,v
+Efficient data streams based closed frequent itemsets mining algorithm,"Tan, J.",2013,x,x,v,x,v,v,v,v,v,x,v,x,v
+An efficient frequent closed itemsets mining algorithm over data streams,"Tan, J.a b and Bu, Y.a and Yang, B.a",2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+Mining regular patterns in data streams,"Tanbeer, S.K. and Ahmed, C.F. and Jeong, B.-S.",2010,x,x,v,x,v,x,v,v,v,x,v,x,v
+CMNL-SW algorithm on online mining closed frequent itemsets over data stream,"Tang, C.a and Wang, P.a and Qu, Y.b",2012,v,x,x,x,v,x,x,v,v,x,v,x,v
+Autopipelining for Data Stream Processing,"Tang, Yuzhe and Gedik, Bugra",2013,x,x,v,x,x,v,v,v,v,v,v,x,x
+Mining Frequent Itemsets in Time-Varying Data Streams,"Tao, Yingying and \""{O}zsu, M. Tamer",,x,x,x,x,v,x,v,v,v,x,v,x,v
+Efficient decision tree re-alignment for clustering time-changing data streams,"Tao, Y. and Ãƒâ€“zsu, M.T.",2010,x,v,x,x,v,x,v,v,v,x,v,v,v
+Learning the pseudoinverse solution to network weights,"Tapson, J. and van Schaik, A.",2013,x,x,x,v,v,v,x,v,v,v,x,x,v
+Statistical data mining of streaming motion data for activity and fall recognition in assistive environments,S.K. Tasoulis and C.N. Doukas and V.P. Plagianakos and I. Maglogiannis,2013,x,x,v,v,v,v,v,v,v,x,v,x,x
+Distributed online big data classification using context information,"Tekin, C. and Van Der Schaar, M.",2013,x,x,v,x,v,v,v,v,v,x,v,x,v
+A regression-based temporal pattern mining scheme for data streams,"Teng, Wei-guang and Chen, Ming-syan and Yu, Philip S.",2003,x,x,v,x,v,v,v,v,v,x,v,x,v
+SMM: A data stream management system for knowledge discovery,"Thakkar, H.a and Laptev, N.b and Mousavi, H.b and Mozafari, B.b and Russo, V.c and Zaniolo, C.b",2011,x,x,v,v,v,v,x,v,v,x,x,x,x
+Designing an inductive data stream management system: The stream mill experience,"Thakkar, H. and Mozafari, B. and Zaniolo, C.",2008,x,x,v,v,v,v,x,v,v,v,v,x,x
+Towards the Optimization of a Parallel Streaming Engine for Telco Applications,"Theeten, Bart and Bedini, Ivan and Cogan, Peter and Sala, Alessandra and Cucinotta, Tommaso",2014,x,x,x,v,v,v,x,v,v,v,v,x,x
+A Rule-Based Temporal Analysis Method for Online Health Analytics and Its Application for Real-Time Detection of Neonatal Spells,"Thommandram, Anirudh and Eklund, J. Mikael and McGregor, Carolyn and Pugh, James Edward and James, Andrew G.",2014,x,x,v,x,v,x,v,v,v,v,v,x,x
+A dynamic online traffic classification methodology based on data stream mining,"Tian, X.a c and Sun, Q.a c and Huang, X.a c and Ma, Y.a b c",2009,x,x,v,x,v,x,x,v,v,x,v,x,x
+Integrated wireless sensor network for large scale intelligent systems,"Tiwari, P.K.a and Parthasarathy, S.a and Chatterjee, A.N.a and Krishna, N.b",2013,v,v,v,v,v,v,v,v,v,v,v,x,v
+Prediction of Stock Market from Stream Data Time Series Pattern using Neural Network and Decision Tree 1,"Tiwari, Shweta and Gulati, Alka",,x,x,v,v,v,v,v,v,v,x,v,x,x
+Mining frequent itemsets in data streams using the weighted sliding window model,Pauray S.M. Tsai,2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+GPU task parallelism for scalable anomaly detection,"Ueno, Koji and Suzumura, Toyotaro",2012,x,x,x,x,v,x,x,v,v,x,v,x,v
+Real time knowledge acquisition based on unsupervised learning of evolving neural models,"Vachkov, G.a b",2007,v,x,v,x,v,v,v,v,v,v,v,x,v
+Online behavior change detection in computer games,"Vallim, R.M.M. and Andrade Filho, J.A. and De Mello, R.F. and De Carvalho, A.C.P.L.F.",2013,x,x,v,x,v,v,v,v,v,x,v,x,x
+Data stream mining algorithms for building decision models in a computer roleplaying game simulation,"Vallim, R.M.M.a and De Carvalho, A.C.P.L.F.a and Gama, J.b",2011,x,x,x,x,v,v,v,v,v,v,v,x,v
+Proposal of a new stability concept to detect changes in unsupervised data streams,Rosane M.M. Vallim and Rodrigo F. de Mello,2014,x,x,x,x,v,v,x,v,v,x,v,x,v
+Concept mining of high volume data streams in network traffic using hierarchical clustering,"Vijayakumar, M.a and Parvathi, R.M.S.b",2010,x,x,x,v,v,v,v,v,v,x,v,x,v
+SPAMS: a novel Incremental Approach for Sequential Pattern Mining in Data Streams,"Vinceslas, Lionel and Symphor, Jean-emile and Mancheron, Alban and Poncelet, Pascal",,x,x,v,x,v,x,v,v,v,x,v,x,v
+Mining data streams with concept drifts using genetic algorithm,"Vivekanandan, P.a and Nedunchezhian, R.b",2011,x,x,x,v,v,v,v,x,v,x,v,x,v
+Dynamic multi-faceted topic discovery in twitter,"Vosecky, J. and Jiang, D. and Leung, K.W.-T. and Ng, W.",2013,x,x,v,x,v,x,v,x,v,x,v,x,x
+Efficient minimization of servo lag error in adaptive optics using data stream mining,"Vyas, A.a b and Roopashree, M.B.a and Prasad, B.R.a",2011,x,v,v,x,v,x,v,v,v,v,v,x,v
+Apnea Pulse-Care: Real-time Data mining in Sleep Apnea Monitor,"Wakchaure, Sushma Laxman and Dny, Ganesh and Ghuge, Ev",,x,x,v,v,v,v,v,v,v,x,v,x,x
+A weighted fuzzy clustering algorithm for data stream,"Wan, R.a and Yan, X.b and Su, X.a",2008,x,x,x,x,v,x,v,x,v,x,v,x,v
+Incremental learning extremely random forest classifier for online learning,"Wang, A.-P. and Wan, G.-W. and Cheng, Z.-Q. and Li, S.-K.",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+Fraud detection on online data streams,"Wang, B.a and Dong, A.b",2010,x,x,v,v,v,v,v,v,v,v,v,x,x
+An efficient K-Means algorithm in the data stream model,"Wang, H.",2005,x,x,x,x,v,x,v,x,x,x,v,x,v
+Online ngram-enhanced topic model for academic retrieval,"Wang, H. and Lang, B.",2011,x,x,v,x,v,x,v,x,x,x,v,x,x
+Suppressing model overfitting in mining concept-drifting data streams,"Wang, H.a and Yin, J.a and Pei, J.b and Yu, P.S.a and Yu, J.X.c",2006,x,x,v,x,v,x,v,v,v,x,x,x,v
+Seamless integrating and parallel processing based on cloud architecture for hydrocarbon reservoir data,"Wang, J.a b and Yao, W.a b and Shi, Y.a b and Chen, F.a b and Yang, Z.a b",2014,x,x,v,x,v,x,v,v,v,v,v,v,x
+Online class imbalance learning and its applications in fault detection,"Wang, S. and Minku, L.L. and Yao, X.",2013,x,x,x,x,v,x,v,x,v,x,v,x,v
+A learning framework for online class imbalance learning,"Wang, S. and Minku, L.L. and Yao, X.",2013,x,x,v,v,v,x,x,x,v,x,v,x,v
+Maintaining only frequent itemsets to mine approximate frequent itemsets over online data streams,"Wang, Y. and Li, K. and Wang, H.",2009,x,x,x,x,v,x,v,x,x,x,v,x,v
+Correlation analysis algorithm based on low-rank approximation for multiple dimension data streams,"Wang, Y.-L.a b and Xu, H.-B.a and Dong, Y.-S.a and Qian, J.-B.a and Liu, X.-J.a",2006,x,x,v,x,v,x,x,v,v,x,v,x,v
+Mining group correlations over data streams,"Wang, Z. and Qian, J. and Zhou, M. and Dong, Y. and Chen, H.",2011,x,x,x,x,v,x,x,v,v,x,v,x,v
+Online Passive-Aggressive algorithms on a budget,"Wang, Z. and Vucetic, S.",2010,x,x,v,x,v,x,v,x,x,x,v,x,v
+Breaking the curse of kernelization: Budgeted stochastic gradient descent for large-scale SVM training,"Wang, Z.a d and Crammer, K.b and Vucetic, S.c",2012,x,x,x,x,v,x,x,x,x,v,v,x,v
+New evolving ensemble classifier for handling concept drifting data streams,"Wankhade, K.a and Dongre, S.a and Thool, R.b",2012,x,x,x,x,v,v,v,x,x,x,v,x,v
+Debellor: A data mining platform with stream architecture,"Wojnarski, M.",2008,v,x,v,x,v,v,v,v,v,v,v,x,x
+EstMax: Tracing maximal frequent item sets instantly over online transactional data streams,"Woo, H.J. and Lee, W.S.",2009,x,x,v,x,v,v,v,v,v,x,x,x,v
+Mining frequent patterns in data stream over sliding windows,"Wu, F.a and Wu, Q.a and Zhong, Y.a and Jin, X.b",2009,x,x,v,x,v,x,x,v,v,x,v,x,v
+Study on the online clustering algorithm based on grid structure,"Wu, P. and Jia, J. and Zhu, T.",2013,x,x,x,x,v,x,v,v,v,x,v,x,v
+To taxi or not to taxi? - Enabling personalised and real-time transportation decisions for mobile users,"Wu, W.a and Ng, W.S.a and Krishnaswamy, S.a and Sinha, A.b",2012,v,x,v,v,v,v,v,v,v,v,v,x,x
+Compression and Aggregation for Logistic Regression Analysis in Data Cubes,"Xi, Ruibin and Lin, Nan and Chen, Yixin",,x,x,v,x,v,x,x,v,v,x,v,v,v
+Mining Accurate Top-K Frequent Closed Itemset from Data Stream,"Xiaojun, Cao",2012,x,x,v,x,v,x,v,v,v,x,v,x,v
+Local correlation detection with linearity enhancement in streaming data,"Xie, Q.a and Shang, S.b and Yuan, B.c and Pang, C.d and Zhang, X.a",2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+"Capturing concepts and detecting concept-drift from potential unbounded, ever-evolving and high-dimensional data streams","Xie, Y.a and Ravichandran, A.b and Haddad, H.a and Jayasimha, K.b",2008,x,x,v,x,v,x,v,v,v,x,v,x,v
+E.A.: Visual analysis of multivariate data streams based on doi functions,"Xie, Zaixian and Ward, Matthew and Rundensteiner, Elke",2010,x,x,x,v,v,v,v,v,v,x,v,x,x
+ODMCA: An adaptive data mining control algorithm in multicarrier networks,Naixue Xiong and Laurence T. Yang and Yingshu Li,2009,x,x,v,x,v,x,x,v,v,v,v,x,x
+PRESEE: An MDL/MML algorithm to time-series stream segmenting,"Xu, K.a and Jiang, Y.b and Tang, M.c and Yuan, C.d and Tang, C.e",2013,x,x,x,x,v,x,v,x,x,x,v,x,v
+A Flexible Architecture for Statistical Learning and Data Mining from System Log Streams,"Xu, Wei and Bod\'{\i}k, Peter and Patterson, David",,x,x,v,v,x,v,v,v,v,v,v,x,x
+Detecting large-scale system problems by mining console logs,"Xu, W.a and Huang, L.b and Fox, A.a and Patterson, D.a and Jordan, M.I.c",2010,x,v,v,v,v,v,v,v,v,x,x,x,v
+A Unifying Framework for Detecting Outliers and Change Points from Non-Stationary Time Series Data,"Yamanishi, Kenji and Takeuchi, Jun-ichi",2002,x,x,x,x,v,v,v,v,v,x,x,x,x
+A novel scalable algorithm for supervised subspace learning,"Yan, J.a and Liu, N.a and Zhang, B.a and Yang, Q.b and Yan, S.c and Chen, Z.a",2006,x,x,x,x,v,x,x,v,v,x,v,x,v
+Online incremental regression for electricity price prediction,"Yan, J. and Tian, C. and Wang, Y. and Huang, J.",2012,x,x,x,x,v,x,v,v,v,x,v,x,x
+Stream mining over fluctuating network traffic at variable data rates,"{Yang Hang} and Fong, S.",2010,x,x,x,x,v,x,v,v,v,x,v,x,x
+CLUES: A unified framework supporting interactive exploration of density-based clusters in streams,"Yang, D. and Guo, Z. and Rundensteiner, E.A. and Ward, M.O.",2011,x,x,x,x,x,x,v,v,v,x,v,x,x
+Interactive visual exploration of neighbor-based patterns in data streams,"Yang, D. and Guo, Z. and Xie, Z. and Rundensteiner, E.A. and Ward, M.O.",2010,x,x,v,v,x,v,v,v,v,x,v,x,v
+Mining neighbor-based patterns in data streams,Di Yang and Elke A. Rundensteiner and Matthew O. Ward,2013,x,x,x,x,v,x,x,x,x,x,v,x,v
+A shared execution strategy for multiple pattern mining requests over streaming data,"Yang, D. and Rundensteiner, E.A. and Ward, M.O.",2009,x,x,x,x,v,x,x,x,x,x,v,x,v
+Mining and linking patterns across live data streams and stream archives,"Yang, D. and Zhao, K. and Hasan, M. and Lu, H. and Rundensteiner, E. and Ward, M.",2013,x,v,v,v,v,v,x,v,v,x,v,x,v
+Incrementally Optimized Decision Tree for Mining Imperfect Data Streams,"Yang, H. and Fong, S.",2012,x,x,x,x,v,x,x,x,x,x,v,x,v
+A very fast decision tree algorithm for real-time data mining of imperfect data streams in a distributed wireless sensor network,"Yang, H.a and Fong, S.a and Sun, G.b and Wong, R.c",2012,x,x,x,x,v,x,v,v,v,x,v,x,x
+A novel real-time framework for extracting patterns from trajectory data streams,"Yang, Hanqing and Gruenwald, Le and Boulanger, Mathilda",2013,x,x,x,x,v,v,v,x,x,x,v,x,x
+Mining short association rules with one database scan,"Yang, L. and Sanver, M.",2004,x,x,v,x,v,v,v,v,v,v,v,x,v
+Online Recovery of Missing Values in Vital Signs Data Streams Using Low-Rank Matrix Completion,"Yang, Shiming and Kalpakis, Konstantinos and Mackenzie, Colin F. and Stansbury, Lynn G. and Stein, Deborah M. and Scalea, Thomas M. and Hu, Peter F.",2012,x,x,x,x,v,x,v,x,x,x,x,x,x
+Incremental mining of across-streams sequential patterns in multiple data streams,"Yang, S.-Y.a and Chao, C.-M.b and Chen, P.-Z.c and Sun, C.-H.c",2011,x,x,x,x,v,x,v,v,v,x,v,x,v
+Incremental mining of closed sequential patterns in multiple data streams,"Yang, S.-Y.a and Chao, C.-M.b and Chen, P.-Z.c and Sun, C.-H.c",2011,x,x,x,v,v,v,x,v,v,x,v,x,v
+Visage: A face interpretation engine for smartphone applications,"Yang, X.a and You, C.-W.a and Lu, H.b and Lin, M.a and Lane, N.D.c and Campbell, A.T.a",2013,x,x,x,v,x,v,x,v,v,x,v,x,x
+Online correlation analysis for multiple dimensions data streams,"Yang, X.a b and Dong, Y.a and Xu, H.a and Liu, X.a and Qian, J.a and Wang, Y.a",2006,x,x,v,x,v,x,x,v,v,x,v,x,v
+Online belief propagation algorithm for probabilistic latent semantic analysis,"Ye, Y.a b and Gong, S.a and Liu, C.a and Zeng, J.a and Jia, N.b and Zhang, Y.b",2013,x,x,v,x,v,x,v,v,v,x,v,x,x
+Model averaging via penalized regression for tracking concept drift,"Yeon, K.a and Song, M.S.a and Kim, Y.a and Choi, H.b and Park, C.c",2010,x,x,x,x,v,x,v,x,x,x,v,x,v
+Approximate data mining for sliding window based data streams,"Yin, K.-C. and Hsieh, Y.-L. and Yang, D.-L.",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Online power quality disturbances identification based on data stream technologies,{Yinghui Kong} and {Jinsha Yuan} and {Linlin Che} and {Jing An},2007,x,x,v,x,v,v,v,v,v,v,v,x,x
+Semi-supervised time series modeling for real-time flux domain detection on passive dns traffic,"Yu, B. and Smith, L. and Threefoot, M.",2014,x,x,v,x,v,v,x,v,v,x,v,x,x
+A new evolving data streams system with data fusion,"Yu, H.a and Wang, Z.b and Liu, X.c",2012,x,x,x,x,v,x,v,v,v,x,v,x,v
+Trajectory stream mining framework facing to real time query processing,"Yu, Y. and Wang, Q. and Wang, X. and Wang, H. and He, J.",2012,x,x,v,x,v,x,v,v,v,v,v,x,v
+Mining maximal frequent patterns by considering weight conditions over data streams,"Yun, U.a and Lee, G.a and Ryu, K.H.b",2014,x,x,x,x,v,x,x,x,x,x,v,x,v
+ShareLikesCrowd: Mobile analytics for participatory sensing and crowd-sourcing applications,"Zaslavsky, A.a and Jayaraman, P.P.a and Krishnaswamy, S.b",2013,x,x,x,x,v,x,x,v,v,v,x,x,x
+An algorithm for data stream speed anomaly detection based on RCSW,"Zhan, Y.a and Wu, C.-M.b and Wang, B.-J.a",2012,x,x,v,x,v,v,v,v,v,x,v,x,v
+Mining frequent closed itemsets over data stream based on bitvector and digraph,"Zhang, G.a and Lei, J.b and Wu, X.c",2010,x,x,x,x,v,x,v,v,v,x,v,x,v
+Online bursty events detection based on emoticons,"Zhang, L.-M.a and Jia, Y.a and Zhou, B.a and Zhao, J.-H.a and Hong, F.b",2013,x,x,v,x,v,x,v,v,v,v,v,x,x
+Towards health data stream analytics,"Zhang, Q.a and Pang, C.a and Mcbride, S.a and Hansen, D.a and Cheung, C.b and Steyn, M.b",2010,x,x,v,x,v,x,v,v,v,v,v,x,x
+Adaptive correlation analysis in stream time series with sliding windows,Tiancheng Zhang and Dejun Yue and Yu Gu and Yi Wang and Ge Yu,2009,x,x,x,x,v,x,v,v,v,x,v,x,v
+Correlation analysis based on hierarchical Boolean representation over time series data streams,"Zhang, T. and Yue, D. and Yu, G. and Gu, Y.",2007,x,x,v,x,v,x,v,v,v,v,v,x,v
+Toward Autonomic Grids: Analyzing the Job Flow with Affinity Streaming,"Zhang, Xiangliang and Germain-renaud, Cecile and Furtlehner, Cyril and Sebag, Mich\`{e}le and Perez, Julien",2009,x,x,x,v,v,v,x,v,v,v,v,x,v
+Multi-scale real-time grid monitoring with job stream mining,"Zhang, Xiangliang and Sebag, Mich\`{e}le and Germain-renaud, C\'{e}cile",,x,x,v,v,v,v,v,v,v,v,v,x,v
+Real-time clinical decision support system with data stream mining,"Zhang, Y.a and Fong, S.a and Fiaidhi, J.b and Mohammed, S.b",2012,x,v,v,v,v,v,v,v,v,v,v,x,v
+A fast online learning algorithm for distributed mining of BigData,"Zhang, Yu and Sow, Daby and Turaga, Deepak and van der Schaar, Mihaela",2014,x,x,x,v,v,v,v,x,x,x,v,x,v
+A fast subspace partition clustering algorithm for high dimensional data streams,"Zhang, Z. and Wang, H.",2009,x,x,v,x,v,x,v,v,v,x,v,x,v
+A Concept Drifting Based Clustering Framework for Data Streams,"Zhao, Gansen and Li, Ziliu and Liu, Fujiao and Tang, Yong",2013,x,x,v,x,v,x,v,v,v,x,v,x,v
+Online transfer learning,"Zhao, P.a and Hoi, S.C.H.b and Wang, J.c and Li, B.d",2014,x,x,v,x,v,v,x,v,v,x,x,x,v
+Outlier detection in cold-chain logistics temperature monitoring,"Zhao, W.a and Dai, W.b and Zhou, S.a",2013,x,x,v,v,v,v,x,v,v,x,v,x,x
+A unifying method for outlier and change detection from data streams based on local polynomial fitting,"Zhi, L.a and Hong, M.a and Yongbing, M.b",2007,x,x,x,v,v,x,v,v,v,x,v,x,v
+A kind of data stream clustering algorithm based on grid-density,"Zhishui, Z.",2011,x,x,x,v,v,v,v,v,v,x,v,x,v
+Efficient streaming text clustering,"Zhong, S.",2005,x,x,x,x,v,x,v,v,v,x,x,x,v
+Tracking clusters in evolving data streams over sliding windows,"Zhou, A.a and Cao, F.a b and Qian, W.a and Jin, C.a c",2008,x,x,x,x,v,v,x,?,?,x,v,x,v
+Online Incremental Feature Learning with Denoising Autoencoders,"Zhou, Guanyu and Sohn, Kihyuk and Lee, Honglak",,x,x,v,x,v,x,v,v,v,x,v,x,v
+A More Accurate Space Saving Algorithm for Finding the Frequent Items,"Zhou, Jun and Chen, Ming and Xiong, Huan",2010,x,x,x,v,v,x,v,v,v,x,v,x,v
+Efficient online subsequence searching in data streams under dynamic time warping distance,"Zhou, M.a and Wong, M.H.b",2008,x,x,x,x,v,x,x,x,x,x,v,x,v
+Parallel computing method of canonical correlation analysis for high-dimensional data streams in irregular streams,"Zhou, Y.a and Lu, X.-W.a and Cheng, C.-T.b",2012,x,x,v,x,v,v,x,v,v,v,v,x,v
+An algorithm based on horizontal bit vectors for mining frequent patterns in data streams,"Zhou, Y.a and Wen, D.b and Li, Y.a and Li, H.c",2012,x,x,x,x,v,x,x,v,v,x,v,x,v
+A study on the application of data stream clustering mining through a sliding and damped window to intrusion detection,"Zhu, C.-S. and Dun, X. and Zhu, L.",2011,x,x,v,v,v,x,x,v,v,x,v,x,x
+Evolving soft subspace clustering,Lin Zhu and Longbing Cao and Jie Yang and Jingsheng Lei,2014,x,x,x,x,v,v,v,x,x,x,v,x,v
+Research into the network security model blended of data stream mining and intrusion detection system,"Zhu, L. and Zhu, C.-S.",2012,v,x,v,x,v,v,v,v,v,v,v,x,x
+Granular computing based intrusion detection model upon network monitor data streams,"Zhu, X. and Huang, Z. and Zhang, J. and Yang, S.",2007,x,x,v,x,v,v,v,v,v,x,v,x,x
+Mining top-k high utility patterns over data streams,Morteza Zihayat and Aijun An,2014,x,x,x,x,v,x,x,x,x,x,v,x,v
+Adaptive Preprocessing for Streaming Data,"Zliobaite, Indre and Gabrys, Bogdan",2014,x,x,x,v,x,v,x,v,v,x,x,x,x
+Fast similarity matching on data stream with noise,"Zou, P. and Su, L. and Jia, Y. and Han, W. and Yang, S.",2008,x,x,x,x,v,x,v,v,v,x,v,x,v
